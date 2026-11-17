@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GeoSearch - Smart Place Discovery</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Leaflet map library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="brand">
+            <div class="brand-icon">G</div>
+            <div>
+                <h1>GeoSearch</h1>
+                <p>Smart Place Discovery Engine</p>
+            </div>
+        </div>
+
+        <div class="server-status">
+            <span class="status-dot"></span>
+            <span id="serverStatus">Checking server...</span>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <h2>Discover places around you</h2>
+            <p>
+                Search places, explore categories, compare ratings,
+                and find nearby locations.
+            </p>
+
+            <div class="search-box">
+                <input type="text" id="keywordInput" placeholder="Search hospitals, pharmacies, restaurants...">
+
+                <button id="searchButton">Search</button>
+            </div>
+        </section>
+
+        <!-- Statistics -->
+        <section class="stats-grid">
+
+            <div class="stat-card">
+                <span>Total Places</span>
+                <h2 id="totalPlaces">0</h2>
+            </div>
+
+            <div class="stat-card">
+                <span>Matching Results</span>
+                <h2 id="matchingPlaces">0</h2>
+            </div>
+
+            <div class="stat-card">
+                <span>Categories</span>
+                <h2 id="totalCategories">0</h2>
+            </div>
+
+        </section>
+
+        <!-- Main Content -->
+        <section class="content-grid">
+
+            <!-- Sidebar -->
+            <aside class="filters">
+
+                <h2>Filters</h2>
+
+                <!-- Category Filter -->
+                <div class="filter-group">
+                    <label for="categoryFilter">Category</label>
+
+                    <select id="categoryFilter">
+                        <option value="">All Categories</option>
+                    </select>
+                </div>
+
+                <!-- Rating Filter -->
+                <div class="filter-group">
+                    <label for="ratingFilter">Minimum Rating</label>
+
+                    <select id="ratingFilter">
+                        <option value="0">All Ratings</option>
+                        <option value="3">3.0+</option>
+                        <option value="4">4.0+</option>
+                        <option value="4.5">4.5+</option>
+                    </select>
+                </div>
+
+                <!-- Price Filter -->
+                <div class="filter-group">
+                    <label for="priceFilter">Maximum Price</label>
+
+                    <select id="priceFilter">
+                        <option value="">Any Price</option>
+                        <option value="200">Up to 200</option>
+                        <option value="500">Up to 500</option>
+                        <option value="1000">Up to 1000</option>
+                        <option value="2000">Up to 2000</option>
+                    </select>
+                </div>
+
+                <button id="applyFilters" class="primary-button">
+                    Apply Filters
+                </button>
+
+                <button id="resetFilters" class="secondary-button">
+                    Reset Filters
+                </button>
+
+                <hr>
+
+                <!-- Quick Actions -->
+                <h3>Quick Actions</h3>
+
+                <button id="topRatedButton" class="action-button">
+                    Top Rated Places
+                </button>
+
+                <button id="nearestButton" class="action-button">
+                    Find Nearest Places
+                </button>
+
+                <button id="allPlacesButton" class="action-button">
+                    Show All Places
+                </button>
+
+                <p class="filter-hint">
+                    Nearest-place search uses your browser location
+                    if you grant permission.
+                </p>
+
+                <hr>
+
+                <!-- Smart Recommendations -->
+                <h3>Smart Recommendations</h3>
+
+                <div class="filter-group">
+                    <label for="radiusInput">
+                        Search Radius (km)
+                    </label>
+
+                    <input type="number" id="radiusInput" min="0.1" max="1000" step="0.5" value="5"
+                        placeholder="Enter radius in km">
+                </div>
+
+                <button id="recommendButton" class="primary-button">
+                    Find Best Places
+                </button>
+
+                <p class="filter-hint">
+                    Recommendations consider distance, rating
+                    and price. Select a category above for a
+                    category-specific comparison.
+                </p>
+
+            </aside>
+
+        <!-- Map -->
+        <section class="map-section">
+
+            <div class="section-heading">
+                <div>
+                    <h2>Explore Geographic Locations</h2>
+                    <p>
+                        Move or zoom the map to explore places.
+                    </p>
+                </div>
+            </div>
+
+            <div id="map"></div>
+
+            <p class="map-hint">
+                Map-window search runs when you finish moving the map.
+            </p>
+
+        </section>
+
+            <!-- Search Results -->
+            <section class="results-section">
+
+                <div class="section-heading">
+                    <div>
+                        <h2>Places</h2>
+                        <p id="resultMessage">Loading places...</p>
+                    </div>
+
+                    <span id="resultCount">0 results</span>
+                </div>
+
+                <div id="placesList" class="places-list">
+                    <p class="loading">Loading places...</p>
+                </div>
+
+            </section>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>GeoSearch | C++17 Search Engine Project</p>
+        <p>
+            Map data &copy;
+            <a href="https://www.openstreetmap.org/copyright"
+               target="_blank"
+               rel="noopener noreferrer">
+                OpenStreetMap contributors
+            </a>
+        </p>
+    </footer>
+
+    <!-- Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Application JavaScript -->
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>

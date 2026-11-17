@@ -1,0 +1,32 @@
+# Build files
+build/
+cmake-build-*/
+
+# Object and compiled files
+*.o
+*.a
+*.so
+*.out
+
+# Executables
+/geosearch
+/geosearch_server
+/index_tests
+/index_benchmark
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files and backups
+*.backup
+*.backup.*
+*.identity.backup.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.before_*

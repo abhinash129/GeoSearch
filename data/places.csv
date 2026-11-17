@@ -1,0 +1,644 @@
+id,name,category,description,latitude,longitude,rating,price,cuisine,opening_hours,phone,website,brand,operator,address
+1,ICICI ATM,ATM,Street: Sector 12,28.5967437,77.3376025,,,,,,,,,Sector 12
+2,Amar Bakery,Bakery,OpenStreetMap place listing,28.6444207,77.3386896,,,,,,,,,
+3,Bahara,Bakery,OpenStreetMap place listing,28.6602576,77.3779898,,,,,,,,,
+4,Cakestry15,Bakery,Hours: Mo-Fr 10:00-20:00; PH closed,28.6129331,77.3779233,,,,Mo-Fr 10:00-20:00; PH closed,,https://www.cakestry15.com,,,"51, Noida, 201301"
+5,Popy Cake Shop,Bakery,OpenStreetMap place listing,28.6408696,77.3206224,,,,,,,,,
+6,Bank of Baroda,Bank,Brand: Bank of Baroda,28.6434776,77.3228108,,,,,,http://www.bankofbaroda.com,Bank of Baroda,,
+7,Bank of Baroda,Bank,Brand: Bank of Baroda,28.601796,77.3231957,,,,,,,Bank of Baroda,,
+8,"Bank of Baroda, Mayur Vihar Phase 3",Bank,OpenStreetMap place listing,28.6115171,77.336293,,,,,,,,,
+9,Bank of India,Bank,Brand: Bank of India,28.6185559,77.3599846,,,,,,https://www.bankofindia.co.in/,Bank of India,,201309
+10,Bank of Maharashtra,Bank,Brand: Bank of Maharashtra,28.6116115,77.3363035,,,,,,https://www.bankofmaharashtra.in/,Bank of Maharashtra,,
+11,Canara Bank,Bank,Brand: Canara Bank,28.6006837,77.3234229,,,,,,,Canara Bank,,
+12,HDFC Bank,Bank,Brand: HDFC Bank,28.638789,77.3647709,,,,,,,HDFC Bank,,
+13,HDFC Bank,Bank,Brand: HDFC Bank,28.6006666,77.3233497,,,,,,,HDFC Bank,,
+14,HDFC Bank,Bank,Brand: HDFC Bank,28.5977192,77.3377005,,,,,,,HDFC Bank,,
+15,ICICI Bank,Bank,Brand: ICICI Bank; Operator: ICICI,28.6387088,77.3621983,,,,,,https://www.icicibank.com,ICICI Bank,ICICI,
+16,ICICI Bank,Bank,Brand: ICICI Bank,28.6385773,77.3620047,,,,,,,ICICI Bank,,
+17,IDBI Bank,Bank,Brand: IDBI Bank,28.6387903,77.3651083,,,,,,,IDBI Bank,,
+18,IDFC First Bank,Bank,Brand: IDFC First Bank,28.5970447,77.3373489,,,,,,,IDFC First Bank,,
+19,Kotak Mahindra Bank,Bank,OpenStreetMap place listing,28.6093151,77.3340843,,,,,,,,,
+20,Punjab National Bank,Bank,Brand: Punjab National Bank,28.6461331,77.3600385,,,,,,https://www.pnbindia.in,Punjab National Bank,,
+21,Punjab National Bank,Bank,Brand: Punjab National Bank,28.6184504,77.3608341,,,,,,https://www.obcindia.co.in,Punjab National Bank,,
+22,State Bank of India,Bank,Brand: State Bank of India,28.6455372,77.3600797,,,,,,,State Bank of India,,
+23,State Bank of India,Bank,Brand: State Bank of India,28.6263239,77.3754323,,,,,,,State Bank of India,,
+24,State Bank of India,Bank,Brand: State Bank of India,28.6038188,77.3490574,,,,,,,State Bank of India,,
+25,State Bank of India,Bank,Brand: State Bank of India,28.6338429,77.3668,,,,,,,State Bank of India,,
+26,State Bank of India,Bank,Brand: State Bank of India,28.6235239,77.3680266,,,,,,,State Bank of India,,
+27,Utkarsh Small Finance Bank,Bank,OpenStreetMap place listing,28.5976356,77.3375853,,,,,,,,,
+28,Yes Bank,Bank,Brand: Yes Bank; Street: Dr. Sushila Naiyar Marg,28.6387439,77.3604363,,,,,,https://www.yesbank.in,Yes Bank,,"Dr. Sushila Naiyar Marg, Indirapuram, 201014"
+29,Yes Bank,Bank,Brand: Yes Bank,28.6264845,77.3754775,,,,,,,Yes Bank,,
+30,Aroma Beauty Parlour,Beauty Store,OpenStreetMap place listing,28.6607192,77.3785052,,,,,,,,,
+31,"Mayur Vihar Phase - 3, Bus Stand",Bus Station,OpenStreetMap place listing,28.6140388,77.3373832,,,,,,,,,
+32,Sector 35 Bus Terminus,Bus Station,OpenStreetMap place listing,28.5770418,77.3571567,,,,,,,,,
+33,City Meat & Chicken Corner,Butcher,OpenStreetMap place listing,28.6012826,77.3224637,,,,,,,,,12
+34,Mutton Chicken Shop,Butcher,OpenStreetMap place listing,28.5788671,77.3609493,,,,,,,,,
+35,Annapurna Cafe,Cafe,OpenStreetMap place listing,28.6304901,77.3712595,,,,,,,,,
+36,Caffyn,Cafe,Cuisine: coffee_shop; Area: Indirapuram; Hours: 12:30-22:30,28.6464867,77.3663559,,,coffee_shop,12:30-22:30,,,,,"23, Indirapuram, Ghaziabad, 201014"
+37,Naresh Tea and Coffee Sta,Cafe,Cuisine: coffee_shop; Hours: 05:00-22:00,28.6014019,77.322742,,,coffee_shop,05:00-22:00,,,,,
+38,school cafe,Cafe,Cuisine: regional; Hours: Mo-Fr 09:00-17:00,28.6489779,77.3676482,,,regional,Mo-Fr 09:00-17:00,,,,,
+39,Sit and Chill,Cafe,Cuisine: pizza;burger;coffee_shop;italian;sandwich,28.6012573,77.3224096,,,pizza;burger;coffee_shop;italian;sandwich,,,,,,
+40,Third Wave Coffee Roasters,Cafe,Brand: Third Wave Coffee Roasters; Cuisine: coffee_shop,28.627831,77.3749278,,,coffee_shop,,,,Third Wave Coffee Roasters,,
+41,BIG Ansals,Cinema,OpenStreetMap place listing,28.6449711,77.3327059,,,,,,,,,
+42,East End Mall,Cinema,OpenStreetMap place listing,28.6450059,77.3263169,,,,,,,,,
+43,Euro cinemas,Cinema,OpenStreetMap place listing,28.6381177,77.3604542,,,,,,,,,
+44,Galaxie Cinema,Cinema,OpenStreetMap place listing,28.6550407,77.3451621,,,,,,,,,
+45,JAM,Cinema,OpenStreetMap place listing,28.6338617,77.3701735,,,,,,,,,
+46,PVR Mahagun,Cinema,Brand: PVR Cinemas,28.6446886,77.3354096,,,,,,,PVR Cinemas,,
+47,SRS Shopprix,Cinema,OpenStreetMap place listing,28.642749,77.3409886,,,,,,,,,
+48,Wave Cinemas Kaushambi,Cinema,"Street: The Wave Mall, Ghaziabad, Uttar Pradesh 201010",28.6448748,77.3263368,,,,,,https://wavecinemas.com,,,"The Wave Mall, Ghaziabad, Uttar Pradesh 201010"
+49,Aam Aadmi Mohallah Clinic,Clinic,OpenStreetMap place listing,28.6048094,77.3323874,,,,,,,,,
+50,Aditya Orthopaedics Clinic,Clinic,"Street: Amrapali Greens Market, Vaibhav Khand 1, Indrapuram",28.6347048,77.3641493,,,,,,https://www.drnitinsrivastavaorthosurgeon.com/,,,"LG 05, Amrapali Greens Market, Vaibhav Khand 1, Indrapuram, Ghaziabad, 201014"
+51,Aesthetica360,Clinic,"Street: C-17, C Block, Sector 33; Hours: Mo-Fr 11:00-20:00",28.5879311,77.3589213,,,,Mo-Fr 11:00-20:00,918448072688,https://www.aesthetica360.com/,,,"C-17, C Block, Sector 33, Noida, 201307"
+52,Anamaya Clinics - Multi Speciality,Clinic,Operator: Unknown; Street: Sector 122,28.5908018,77.3975348,,,,,+91 88106 77465,https://anamayaclinics.com/,,Unknown,"CM - 19, Sector 122, Noida, 201316"
+53,Aradhya Clinic,Clinic,Operator: Dr. Rajiv Singh,28.6360093,77.3756869,,,,,,,,Dr. Rajiv Singh,
+54,Arihant Ortho & Truma Center,Clinic,"Operator: Novosolus; Street: Padmana Naidu Marg,Shakti Khand III, Indirapuram",28.6479681,77.3684336,,,,,,,,Novosolus,"Dr B K Jain, 343, Padmana Naidu Marg,Shakti Khand III, Indirapuram, Ghaziabad, 201014"
+55,"DGD, Kalyanpuri",Clinic,OpenStreetMap place listing,28.616698,77.318866,,,,,011-22771350,,,,"Resettlement Colony, Khichripur, Delhi"
+56,Dhama Clinic,Clinic,OpenStreetMap place listing,28.5811477,77.363074,,,,,,,,,"C-46, Sector-34"
+57,Dhawan Joint & Bone Care,Clinic,Operator: Novosalus technology; Street: Sector 31,28.5805858,77.3421765,,,,,,,,Novosalus technology,"C-1/2, Sector 31, Noida, 201303"
+58,Dipakshi Hospital,Clinic,OpenStreetMap place listing,28.5873527,77.3567507,,,,,,,,,"Raidani Colony, Rambagh"
+59,Doctor Bhargava Clinic,Clinic,OpenStreetMap place listing,28.6446764,77.3388901,,,,,+91 88003 40247,,,,
+60,Dr .Aradhana Kapoor Medicare Centre,Clinic,OpenStreetMap place listing,28.5927705,77.3650759,,,,,,,,,"B-16, Sector-53, Noida"
+61,Dr Sanyam Jain's Spine Cure Clinic,Clinic,"Operator: Novosalus; Street: Rajhans plaza Near aditya mall, Indirapuram",28.6393999,77.3602066,,,,,,,,Novosalus,"A 211 2nd floor, Rajhans plaza Near aditya mall, Indirapuram, Ghaziabad, 201014"
+62,Dr. P.S. Butola,Clinic,OpenStreetMap place listing,28.5989733,77.3497608,,,,,,,,,"G-29, Sector-22, Noida"
+63,Dr. Rajiv Saxena,Clinic,OpenStreetMap place listing,28.654815,77.3590343,,,,,,,,,
+64,Dr. Ranjan's Gynae and Eye Clinic,Clinic,OpenStreetMap place listing,28.6371608,77.3356269,,,,,,,,,"D -3, 1st Flr, Sec 4,Vaishali"
+65,Dr. Shweta Nihalani ( Dentist in Indirapuram),Clinic,Street: Dr. Sushila Naiyar Marg; Hours: 18:00-20:00,28.6393065,77.3605586,,,,18:00-20:00,9811397879,http://dentistinindirapuram.in/,,,"A-102, Ahinsa Khand-1, Dr. Sushila Naiyar Marg, Indirapuram, 201014"
+66,Dr. Zutshi's Charitable Clinic,Clinic,OpenStreetMap place listing,28.5847596,77.359749,,,,,,,,,
+67,Dr.Naveen Garg,Clinic,OpenStreetMap place listing,28.5946242,77.3403168,,,,,2538464,,,,"T-22,Sector-12"
+68,Dr.S.Kumar,Clinic,OpenStreetMap place listing,28.6022938,77.342435,,,,,,,,,"C-1Sect-56, Noida"
+69,Drishti Eye Care,Clinic,OpenStreetMap place listing,28.6441329,77.3418112,,,,,,,,,"Plot No-119, Sector Iv, Vaishali (Between Shoprix Mall & Paras Hospital)"
+70,Family Medicare,Clinic,OpenStreetMap place listing,28.6013748,77.3783062,,,,,,,,,"M-15, Sector,66 Noida"
+71,Jain Clinic,Clinic,OpenStreetMap place listing,28.5928579,77.3389649,,,,,,,,,"O-38, Sector-12, Noida"
+72,Kalawati Memorial Clinic,Clinic,OpenStreetMap place listing,28.6374372,77.3532185,,,,,,,,,1/465 Nyay Khand-Ist Indirapuram
+73,Kanika Medical and Surgical Clinic,Clinic,OpenStreetMap place listing,28.5946592,77.3325131,,,,,,,,,"H-3, Sector-11, Noida"
+74,Mata Kaushalya Clinic and Physiotherapy Centre,Clinic,OpenStreetMap place listing,28.6137067,77.3519213,,,,,,,,,"Rc-12 Anil Viar , Khoda Colony, Near Sahil Public School Noida"
+75,Medical Mantra Multispeciality Clinic & Diagnostic centre,Clinic,"Operator: Novosalus Technology; Street: Ground Floor, near Patanjali store, opposite to SHIPRA SRISHTI, Niti Khand 2",28.6417153,77.3720645,,,,,,,,Novosalus Technology,"Plot no 477, Ground Floor, near Patanjali store, opposite to SHIPRA SRISHTI, Niti Khand 2, Indirapuram, 201014"
+76,MediServe,Clinic,Operator: Dr. Meenu Singh; Street: Sector 122,28.5904456,77.3978549,,,,,,https://gynecologistnoida.com,,Dr. Meenu Singh,"CM 21, Sector 122, Noida, 201307"
+77,Meera Medi Care,Clinic,OpenStreetMap place listing,28.5994808,77.3491793,,,,,,,,,"H- 15, Set 22, Noida"
+78,Nidaan Nursing Home,Clinic,OpenStreetMap place listing,28.6395126,77.345653,,,,,,,,,"364, Ak- 3, Near St.Fracis School, Indirapuram"
+79,Om Arpan Nursing Home,Clinic,OpenStreetMap place listing,28.6142729,77.3522647,,,,,,,,,"Main Road Anil Vihar, Hkora Colony"
+80,Platinum Orthopedic & Diagnostic Center,Clinic,"Street: Gc 204, Aditya Gold Crest , Above Nathu Sweets, Vaibhav Khand, Indirapuram",28.6362159,77.3604566,,,,,,https://www.drvishalortho.com/drvishalortho,,,"2nd Floor, Gc 204, Aditya Gold Crest , Above Nathu Sweets, Vaibhav Khand, Indirapuram, Ghaziabad, 201014"
+81,Rheuma Clinic,Clinic,"Operator: Novosalus; Street: The Surgicare, 109A, 1st floor Rajhans Plaza, Kala pathar road Opposite Aditya mega mall, Ahinsa Khand 1, Indirapuram, Uttar Pradesh, India; Hours: Mo,We,Fr 18:00-20:00",28.6396489,77.3607776,,,,"Mo,We,Fr 18:00-20:00",,https://www.drsauvikdasgupta.in/,,Novosalus,"The Surgicare, 109A, 1st floor Rajhans Plaza, Kala pathar road Opposite Aditya mega mall, Ahinsa Khand 1, Indirapuram, Uttar Pradesh, India, Ghaziabad, 201014"
+82,Rohitash Clinic,Clinic,OpenStreetMap place listing,28.5947661,77.3425665,,,,,,,,,"I-12, Sector-22, Noida"
+83,Sanskriti Clinic,Clinic,OpenStreetMap place listing,28.599407,77.3488334,,,,,2412999,,,,G-10 Sec 22 Noida-201301
+84,Shanti Gopal Hospital,Clinic,OpenStreetMap place listing,28.6418773,77.3790623,,,,,,,,,
+85,"SPUHC, Ghazipur",Clinic,OpenStreetMap place listing,28.6308574,77.3197627,,,,,,,,,"C-19, Mcd Primary School, Ghazipur"
+86,"Sumitra Nursing Home, Gautam Buddha Nagar",Clinic,OpenStreetMap place listing,28.5809728,77.3534455,,,,,,,,,A-119 A Sector - 35 Noida
+87,Wadhawan's Orthopaedic and Medical Centre - Noida,Clinic,OpenStreetMap place listing,28.5830114,77.3546565,,,,,,,,,"A-73, Sector-35, Noida"
+88,Brand Collection,Clothing Store,OpenStreetMap place listing,28.6446986,77.338506,,,,,+91 88827 73937,,,,
+89,COBB,Clothing Store,OpenStreetMap place listing,28.6591937,77.3663684,,,,,,,,,
+90,Duke,Clothing Store,OpenStreetMap place listing,28.6591772,77.3663461,,,,,,,,,
+91,Max,Clothing Store,Brand: Max; Street: Mahagun Metro Mall Vaishali,28.6459865,77.3374694,,,,,,https://www.maxfashion.in/,Max,,"Mahagun Metro Mall Vaishali, Ghaziabad, 201001"
+92,Saheli Footwear,Clothing Store,OpenStreetMap place listing,28.6448717,77.3387663,,,,,,,,,
+93,CDAC,College,Street: Sector 62,28.6188837,77.3621745,,,,,,,,,"B 30, Sector 62, Noida, 201307"
+94,IIM Lucknow Noida Campus,College,OpenStreetMap place listing,28.6229871,77.3572527,,,,,,,,,
+95,Indian Academy of Highway Engineers,College,OpenStreetMap place listing,28.6302301,77.3611491,,,,,,,,,
+96,Indraprastha Engineering College,College,OpenStreetMap place listing,28.6591012,77.3399845,,,,,,,,,
+97,"Jaypee Business School, Noida",College,OpenStreetMap place listing,28.6291951,77.371384,,,,,,,,,
+98,"Jaypee Institute of Information Technology, Noida",College,OpenStreetMap place listing,28.6300443,77.3720823,,,,,,https://www.jiit.ac.in/,,,
+99,Maharaja Agrasen College,College,Operator: Delhi University; Hours: 08:30-17:00,28.6036283,77.3216964,,,,08:30-17:00,+91 11 2261 0563,https://mac.du.ac.in,,Delhi University,110096
+100,MGMCoET,College,OpenStreetMap place listing,28.6300649,77.3699951,,,,,,https://mgmnoida.org,,,"Noida, 201010"
+101,Santhosh Deemed To Be Uniersity,College,OpenStreetMap place listing,28.6478795,77.4085174,,,,,,,,,
+102,Shaheed Rajguru College of Applied Sciences for Women,College,OpenStreetMap place listing,28.5986606,77.3226939,,,,,,https://www.rajgurucollege.com/,,,
+103,community center,Community Centre,OpenStreetMap place listing,28.6100138,77.3373166,,,,,,,,,
+104,Noida Haat,Community Centre,"Operator: Noida Authority and ITE Group Pvt. Ltd.; Street: Prakash Hospital Marg, Sector 33A; Hours: Mo-Su 09:00-22:00",28.5851581,77.3509181,,,,Mo-Su 09:00-22:00,+919911112235,https://noidahaat.co/,,Noida Authority and ITE Group Pvt. Ltd.,"D-10, Prakash Hospital Marg, Sector 33A, Noida, 201307"
+105,Student Activity Center,Community Centre,OpenStreetMap place listing,28.6294062,77.3733736,,,,,,,,,
+106,JMD Computer,Computer Store,OpenStreetMap place listing,28.6446604,77.3384501,,,,,+91 88513 00174,,,,
+107,Keychron,Computer Store,Area: Indirapuram; Hours: 10:30-18:30,28.6463995,77.367308,,,,10:30-18:30,+91-120-428-1181,https://keychron.in,,,"66, Indirapuram, Ghaziabad, 201014"
+108,Rajdhani Computer,Computer Store,OpenStreetMap place listing,28.6445279,77.3385635,,,,,,,,,
+109,Rajdhani Computer System,Computer Store,OpenStreetMap place listing,28.6446834,77.3384903,,,,,+91 88263 68797;+91 95556 81468,,,,
+110,24Seven,Convenience Store,Hours: 24/7,28.6410206,77.3783008,,,,24/7,,,,,
+111,A2Z,Convenience Store,OpenStreetMap place listing,28.6294374,77.373276,,,,,,,,,
+112,Apna Store,Convenience Store,OpenStreetMap place listing,28.660902,77.3785006,,,,,,,,,
+113,Brijwasi General Store,Convenience Store,OpenStreetMap place listing,28.6409214,77.3204293,,,,,,,,,
+114,Central Market,Convenience Store,OpenStreetMap place listing,28.6371575,77.3759993,,,,,,,,,
+115,Kirana Store,Convenience Store,OpenStreetMap place listing,28.6611312,77.3796082,,,,,,,,,
+116,Manoj Vihar,Convenience Store,OpenStreetMap place listing,28.6419902,77.3780646,,,,,,,,,
+117,Patanjali Store,Convenience Store,Brand: Patanjali Ayurved,28.64687,77.3475629,,,,,,,Patanjali Ayurved,,
+118,Store Nextdoor,Convenience Store,OpenStreetMap place listing,28.5864159,77.3679633,,,,,,,,,
+119,Dr. Malhotra's Dental Care,Dental Clinic,OpenStreetMap place listing,28.603251,77.3429956,,,,,,,,,E4/20 1st Flr. Sec 56
+120,Facio Maxillary and Dental Health Care,Dental Clinic,OpenStreetMap place listing,28.5903273,77.3556751,,,,,,,,,"B-14, Sec-33, Noida"
+121,PANT DENSTIST,Dental Clinic,OpenStreetMap place listing,28.6470297,77.3472115,,,,,,,,,
+122,Cromā,Electronics,Brand: Cromā,28.6385838,77.3621909,,,,,,,Cromā,,
+123,Deepak Mobile Care,Electronics,OpenStreetMap place listing,28.6448545,77.3387624,,,,,+91 92507 00801,,,,
+124,Vijay Sales,Electronics,Brand: Vijay Sales,28.6392361,77.3621044,,,,,,,Vijay Sales,,
+125,Burger Stall,Food Court,OpenStreetMap place listing,28.6504755,77.3532696,,,,,,,,,
+126,Cinnamon Kitchen,Food Court,OpenStreetMap place listing,28.6385708,77.361804,,,,,,,,,
+127,D Square,Food Court,OpenStreetMap place listing,28.6259437,77.3753879,,,,,,,,,
+128,Badarpur Service Station,Fuel Station,Brand: Hindustan Petroleum; Hours: 24/7,28.6196369,77.3411167,,,,24/7,,,Hindustan Petroleum,,
+129,Bharat Petroleum,Fuel Station,Brand: Bharat Petroleum,28.6345574,77.3154765,,,,,,,Bharat Petroleum,,
+130,Bharat Petroleum,Fuel Station,Brand: Bharat Petroleum,28.6041804,77.3233182,,,,,,,Bharat Petroleum,,
+131,Bharat Petroleum,Fuel Station,Brand: Bharat Petroleum,28.636873,77.3604505,,,,,,,Bharat Petroleum,,
+132,Bharat Petroleum,Fuel Station,Brand: Bharat Petroleum,28.6368567,77.3604486,,,,,,,Bharat Petroleum,,
+133,Bharat Petroleum pump,Fuel Station,Brand: Bharat Petroleum,28.6474139,77.3785236,,,,,,,Bharat Petroleum,,
+134,Capt. Anuj Sharma Gas Station,Fuel Station,OpenStreetMap place listing,28.6009072,77.324429,,,,,,,,,
+135,HP,Fuel Station,Brand: Hindustan Petroleum,28.5773251,77.3604055,,,,,,,Hindustan Petroleum,,
+136,HP,Fuel Station,Brand: Hindustan Petroleum,28.595384,77.3727869,,,,,,,Hindustan Petroleum,,
+137,HP Petrol Pump,Fuel Station,Brand: Hindustan Petroleum,28.5967424,77.3437213,,,,,,,Hindustan Petroleum,,
+138,IGL,Fuel Station,Brand: IGL,28.6292758,77.3216955,,,,,,,IGL,,
+139,IGL,Fuel Station,Brand: IGL,28.5960084,77.3726805,,,,,,,IGL,,
+140,Indian Oil,Fuel Station,Brand: Indian Oil,28.659564,77.3550818,,,,,,,Indian Oil,,
+141,Indian Oil,Fuel Station,Brand: Indian Oil; Operator: Indian Oil,28.6552668,77.3472686,,,,,,,Indian Oil,Indian Oil,
+142,Indian Oil,Fuel Station,Brand: Indian Oil,28.6588641,77.3538527,,,,,,,Indian Oil,,
+143,Indian Oil,Fuel Station,Brand: Indian Oil; Operator: Indian Oil,28.6243328,77.3749465,,,,,,,Indian Oil,Indian Oil,
+144,Indian Oil,Fuel Station,Brand: Indian Oil,28.6331872,77.3500502,,,,,,,Indian Oil,,
+145,Indian Oil,Fuel Station,Brand: Indian Oil,28.6258853,77.3336672,,,,,,,Indian Oil,,
+146,Indian Oil,Fuel Station,Brand: Indian Oil,28.5917905,77.3390453,,,,,,,Indian Oil,,
+147,Indian Oil,Fuel Station,Brand: Indian Oil,28.6328586,77.3511532,,,,,,,Indian Oil,,
+148,Indian Oil Corp petrol bunk,Fuel Station,Brand: Indian Oil,28.6292275,77.3214599,,,,,,,Indian Oil,,
+149,Indian Oil Corportation,Fuel Station,Brand: Indian Oil,28.6043612,77.3230956,,,,,,,Indian Oil,,
+150,Indian Oil Vaishali,Fuel Station,Brand: Indian Oil,28.6456394,77.3366322,,,,,,,Indian Oil,,
+151,Indraprastha CNG,Fuel Station,Brand: IGL; Operator: Indraprastha Gas Limited; Street: Sector 9; Hours: 24/7,28.6555917,77.3494564,,,,24/7,,,IGL,Indraprastha Gas Limited,"Sector 9, Ghaziabad, 201010"
+152,Ruchika Petrol Pump,Fuel Station,OpenStreetMap place listing,28.6036715,77.3355959,,,,,,,,,
+153,Transportation: Bharat Petroleum Fuel Station,Fuel Station,OpenStreetMap place listing,28.5769092,77.3585987,,,,,,,,,
+154,Garden,Garden,Operator: Ryan International School,28.6138454,77.3368984,,,,,,,,Ryan International School,
+155,NetEdge Garden,Garden,OpenStreetMap place listing,28.614471,77.3679748,,,,,,,,,
+156,@Homeshop,Gift Shop,OpenStreetMap place listing,28.6534402,77.3430754,,,,,,,,,
+157,Glorious Gift,Gift Shop,OpenStreetMap place listing,28.5971343,77.3375133,,,,,,,,,
+158,Mother Dairy,Grocery Store,OpenStreetMap place listing,28.586894,77.3666222,,,,,,,,,
+159,Clarks inn,Guest House,OpenStreetMap place listing,28.6435715,77.3269583,,,,,,,,,
+160,Gaur Green Avenue,Guest House,"Street: Abhay Khand II, Indirapuram ",28.6344371,77.3420597,,,,,,,,,"Abhay Khand II, Indirapuram "
+161,Laxmi packers and movers,Guest House,Operator: sahiljat; Street: National Highway 24 Bypass,28.6121665,77.3254393,,,,,971814075,https://www.laxmimoverspackers.com/,,sahiljat,"17/12, National Highway 24 Bypass, 110096"
+162,Absolute Fit,Gym,Hours: Mo-Su 06:00-22:00,28.6108742,77.3353222,,,,Mo-Su 06:00-22:00,+91-7217759688,https://www.instagram.com/absolutefit_official/,,,"A-1168, 2nd & 3rd Floor, Mayur Vihar Phase-3, Delhi, 110096"
+163,Anytime Fitness,Gym,Brand: Anytime Fitness,28.6487385,77.3392607,,,,,,,Anytime Fitness,,
+164,AR Fitness Gym,Gym,Brand: AR fitness; Hours: Mo-Sa 06:00-18:00+,28.5987273,77.3364295,,,,Mo-Sa 06:00-18:00+,,,AR fitness,,
+165,Charak Yoga Ashram,Gym,"Street: Friend's Society,Sector 12, Vasundhara,; Hours: Mo-Fr 06:00-19:00",28.6640937,77.3641443,,,,Mo-Fr 06:00-19:00,+91 99999 00632,https://thecharakyoga.com/,,,"428 Charak Yoga Centre, Friend's Society,Sector 12, Vasundhara,, Ghaziabad, 201012"
+166,Girl's Gym,Gym,OpenStreetMap place listing,28.6293653,77.3734035,,,,,,,,,
+167,Iron Champs's Gym,Gym,OpenStreetMap place listing,28.6585451,77.3650019,,,,,,,,,
+168,Iron Shape's Gym,Gym,OpenStreetMap place listing,28.6585733,77.3648444,,,,,,,,,
+169,JVCC Gym,Gym,OpenStreetMap place listing,28.5846716,77.3373011,,,,,,,,,
+170,KV GYM,Gym,OpenStreetMap place listing,28.5896977,77.3481928,,,,,,,,,
+171,Max Fitness Gym,Gym,OpenStreetMap place listing,28.6497323,77.3521367,,,,,,,,,
+172,Oxination Fitness Club,Gym,OpenStreetMap place listing,28.6446895,77.3384253,,,,,,,,,
+173,Warrior Fitness CLub,Gym,OpenStreetMap place listing,28.6611498,77.3795293,,,,,,,,,
+174,"Aarogya Hospital, Ghaziabad",Hospital,OpenStreetMap place listing,28.6481363,77.3516937,,,,,,,,,"NH-1, Sctor-6, Vaishali"
+175,Ajit Surgical and Maternity Centre,Hospital,OpenStreetMap place listing,28.5982422,77.3389501,,,,,,,,,X-9 Sector-12Noida
+176,Anita's clinic,Hospital,OpenStreetMap place listing,28.6360396,77.3756924,,,,,,,,,
+177,Apollo Clinic,Hospital,OpenStreetMap place listing,28.6354868,77.3611181,,,,,,,,,
+178,Avantika Hospital,Hospital,OpenStreetMap place listing,28.6455529,77.3717563,,,,,,,,,"137 Niti Khand-2 Opposite Ghaziabad, Indirapuram"
+179,awasthi hospital,Hospital,OpenStreetMap place listing,28.6526314,77.3713857,,,,,,,,,
+180,Bharat Hospital,Hospital,OpenStreetMap place listing,28.6012158,77.3739616,,,,,,,,,
+181,Centre for Sight,Hospital,OpenStreetMap place listing,28.6476839,77.3786785,,,,,+9101142504250,https://www.centreforsight.com/,,,
+182,Chandralakshmi Hospital,Hospital,OpenStreetMap place listing,28.6460547,77.340079,,,,,,,,,
+183,City Hospital,Hospital,OpenStreetMap place listing,28.596142,77.343176,,,,,,,,,"Y- 285- C- 1, Sector 12, Noida"
+184,Cloudnine Hospital,Hospital,"Street: Hoshiyarpur, Sector 51",28.5787478,77.3668926,,,,,,,,,"C9, Hoshiyarpur, Sector 51, Noida, 201301"
+185,Dr Fateh Singh Hospital,Hospital,OpenStreetMap place listing,28.6471512,77.3412971,,,,,,,,,"Railway Road, Nizampur, Mandi"
+186,Eternity Hospital,Hospital,OpenStreetMap place listing,28.6415217,77.3622827,,,,,,,,,"914, Niti Khand-1 Indirapuram"
+187,Eye7 Chaudhary Eye Centre,Hospital,Street: Doctor Sushila Naiyar Marg,28.6395242,77.373357,,,,,+91-97178-96108,https://www.eye7.in/network-hospitals/eye7-chaudhary-eye-centre-indirapuram/,,,"Doctor Sushila Naiyar Marg, Ghaziabad, 201014"
+188,Fortis Hospital,Hospital,"Street: Sector 62, Noida",28.6187342,77.3726265,4.4,,,,,,,,"B-22, Sector - 62 Noida"
+189,Government Dispensary,Hospital,OpenStreetMap place listing,28.6098281,77.3377451,,,,,,,,,
+190,Jain Hospital and Research Centre,Hospital,OpenStreetMap place listing,28.661683,77.360141,,,,,,,,,"14A/636, Vasundhara, Ghaziabad,Opposite Sahibabad Sabzi Mandi"
+191,Kailash Hospital,Hospital,OpenStreetMap place listing,28.6002135,77.3759255,,,,,,,,,
+192,"Kamal Hospital, Ghaziabad",Hospital,OpenStreetMap place listing,28.6446849,77.3253943,,,,,,,,,"Ka-Block, Near Metro Station Kaushambi"
+193,Lal Bahadur Shastri Hospital,Hospital,OpenStreetMap place listing,28.6186316,77.3136539,,,,,,https://delhi.gov.in/wps/wcm/connect/doit_health/health/home/hospitals/lal+bahadur+shastri+hospital/,,,
+194,Lal Bahadur Shastri Hospital,Hospital,OpenStreetMap place listing,28.6178479,77.3114762,,,,,1122774145,https://delhi.gov.in/wps/wcm/connect/doit_health/health/home/hospitals/lal+bahadur+shastri+hospital/,,,"Near Kalyanvas Colony,Mayur Vihar, Phase -II, Khichripur, Delhi"
+195,"Life Care Hospital, Gautam Buddha Nagar",Hospital,OpenStreetMap place listing,28.5935471,77.3701425,,,,,,,,,"E-1, Sector 61, Noida"
+196,Malik Nursing Home,Hospital,OpenStreetMap place listing,28.6094473,77.3343703,,,,,,,,,"B 1297-98 GHAROLI DAIRY COLONY, Mayur Vihar Phase -iii"
+197,Max Superspeciality Hospital,Hospital,"Street: Near Radisson Blu Hotel, Sector 1, Vaishali",28.6346135,77.3330229,,,,,,https://www.jointsurgerydelhi.com/dr-nikunj-agrawal,,,"W-3, Near Radisson Blu Hotel, Sector 1, Vaishali, Ghaziabad, 201012"
+198,"Meenakshi Hospital, Ghaziabad",Hospital,OpenStreetMap place listing,28.642142,77.3257148,,,,,,,,,B-13 Kaushambi
+199,Metro Heart Institute,Hospital,OpenStreetMap place listing,28.5973655,77.33789,,,,,,,,,
+200,Metro Heart Institute and Metro Multi Speciality Hospital,Hospital,OpenStreetMap place listing,28.5974067,77.336034,,,,,,,,,"X- 1, Sector- 12, L- 94, Sec- 11, Noida"
+201,Metro Hospital & Heart Institute,Hospital,OpenStreetMap place listing,28.5973745,77.337885,,,,,,,,,
+202,Metro Hospitals and Heart Institute (Cardiology Wing),Hospital,OpenStreetMap place listing,28.5973899,77.3379467,,,,,,https://www.metrohospitals.com/content.php,,,"X-1, Sector 12, Delhi-NCR"
+203,Metro Multi-speciality Hospital,Hospital,OpenStreetMap place listing,28.5974786,77.3358702,,,,,,,,,
+204,"Om Hospital, Gautam Buddha Nagar",Hospital,OpenStreetMap place listing,28.6054251,77.3796433,,,,,,,,,"sector 63 road, mamura"
+205,Om Prem Charitable Hospital,Hospital,OpenStreetMap place listing,28.6317452,77.3498755,,,,,,,,,
+206,Param Jyoti Eye Center,Hospital,OpenStreetMap place listing,28.6574453,77.3587207,,,,,,,,,"481,Friends Society Sector-12 Vasundhara"
+207,Paras Hospital,Hospital,Street: Sector 4,28.6471942,77.3446415,,,,,,,,,"130, Sector 4, Vaishali"
+208,Prakash Hospital Pvt Ltd,Hospital,OpenStreetMap place listing,28.5854878,77.3494026,,,,,,,,,Sector - 33 Sector - 33 Noida
+209,Prem Dharam Hospital and Diagnostics,Hospital,OpenStreetMap place listing,28.6600937,77.367961,,,,,,,,,"10D-180, Vasundra"
+210,Pulse Medicare,Hospital,OpenStreetMap place listing,28.6405677,77.3412821,,,,,,,,,"Iii-A/311, (80 Feet Road), Near Dnb, Vaishali"
+211,R K Medicare,Hospital,OpenStreetMap place listing,28.6267789,77.3483944,,,,,,,,,"B-198, Main Road, Himalayan Enclave , Nurani Masjid Road, Khora Colony"
+212,R.N. Hospital,Hospital,OpenStreetMap place listing,28.6141769,77.3522092,,,,,,,,,"anil Vihar, Khor Colony"
+213,Raj Rani Hospital,Hospital,OpenStreetMap place listing,28.6138358,77.3233982,,,,,,,,,"MAIN MARKET, KONDLI, Mayur Vihar Phase -iii"
+214,sai nursing home,Hospital,"Street: main market , opposite of state bank of india  ,old kondli",28.6132251,77.3232862,,,,,,,,,"D-8, main market , opposite of state bank of india  ,old kondli, delhi, 110096"
+215,Sankhwar Hospital,Hospital,OpenStreetMap place listing,28.6151295,77.3237989,,,,,,,,,"D-134, KONDALI, near kondli bridge, Mayur Vihar Phase -iii"
+216,Sarvodaya Hospital and Trauma Centre,Hospital,OpenStreetMap place listing,28.6449508,77.3391154,,,,,,,,,"# 342, Sector-4, Vaishali"
+217,Shanti Gopal Hospital,Hospital,OpenStreetMap place listing,28.6418223,77.3792669,,,,,,,,,"Plot No NH -01 Ahinsakhand -II, Indirapuram"
+218,"Sharp Sight Centre, Indirapuram",Hospital,OpenStreetMap place listing,28.6362843,77.3607058,,,,,,https://www.sharpsight.in/,,,"Aditya Gold Trust, 101, 102, 103, 1st Floor, Plot C/GH3, Vaibhav Khand"
+219,"Shivam Hospital, Gautam Buddha Nagar",Hospital,OpenStreetMap place listing,28.6098891,77.3467249,,,,,,,,,"Raghuvanshi road, Khora Colony OppositeIndian Oil Building,block-A, Sector-62, Noida"
+220,"Shree Krishna Hospital, Ghaziabad",Hospital,OpenStreetMap place listing,28.6520842,77.3603535,,,,,,,,,Near Atal Chowk Vasundhara
+221,Sparsh Medicare and Trauma Centre,Hospital,OpenStreetMap place listing,28.6501229,77.364914,,,,,,,,,"Shakti Khand- Iii, Plot No.-54, Indirapuram"
+222,Sumitra Hospital,Hospital,OpenStreetMap place listing,28.5818659,77.3529095,,,,,,,,,
+223,Surbhi Hospital,Hospital,OpenStreetMap place listing,28.5792305,77.3611736,,,,,,,,,"Sector - 35, Near Bharat Petrol Pump, Morna, Noida"
+224,"Tewari Eye Centre, Vaishali",Hospital,OpenStreetMap place listing,28.6463402,77.3470599,,,,,,,,,"Sector - 5/699 , Vaishali"
+225,Tirupati Eye Center,Hospital,OpenStreetMap place listing,28.5874352,77.3570766,,,,,,https://www.tirupatieye.org,,,"Tirupati Eye Centre, C-53C, Sector-33, Noida"
+226,Vaishali Health Clinic,Hospital,OpenStreetMap place listing,28.6376181,77.3385546,,,,,,,,,"Sector-11, B/125, Vaishali"
+227,Yashoda Medicity,Hospital,OpenStreetMap place listing,28.6462502,77.377579,,,,,,,,,
+228,"Yashoda Super Speciality Hospital, Anand Vihar",Hospital,OpenStreetMap place listing,28.6450931,77.3287535,,,,,,https://www.yashodahospital.org/,,,"H-1, Kaushambi, Near Anand Vihar ISBT"
+229,Yashodha Medicity,Hospital,Street: Shaheed captain Manoj Pandey Marg; Hours: 24/7,28.6464452,77.3784936,,,,24/7,+919266610101,https://www.yashodahospital.org/,,,"Shaheed captain Manoj Pandey Marg, 201014"
+230,H4,Hostel,OpenStreetMap place listing,28.6298141,77.3738178,,,,,,,,,
+231,H5,Hostel,OpenStreetMap place listing,28.6293098,77.3737938,,,,,,,,,
+232,JSS Girls Hostel,Hostel,"Street: C Block, Phase 2, Industrial Area, Sector 62",28.6119854,77.3587915,,,,,,,,,"C Block, Phase 2, Industrial Area, Sector 62, Noida, 201309"
+233,N7,Hostel,OpenStreetMap place listing,28.6292941,77.373336,,,,,,,,,
+234,Rajendra Bhavan,Hostel,OpenStreetMap place listing,28.6298173,77.373331,,,,,,,,,
+235,Sarojni Bhavan,Hostel,Operator: Papia,28.6292775,77.3720722,,,,,,,,Papia,
+236,Country Inn and Suites,Hotel,Brand: Country Inn & Suites,28.6542784,77.3437072,,,,,,,Country Inn & Suites,,
+237,Golden Plate,Hotel,OpenStreetMap place listing,28.6450712,77.3276109,,,,,,,,,
+238,Hotel Sunshine Inn,Hotel,OpenStreetMap place listing,28.64505,77.3276082,,,,,,,,,
+239,Hotel Sunshine Inn,Hotel,OpenStreetMap place listing,28.6450657,77.3275493,,,,,,,,,
+240,Hotel Yed York,Hotel,OpenStreetMap place listing,28.619913,77.3949786,,,,,,,,,
+241,OYO Aman Hotel,Hotel,Brand: OYO,28.6318703,77.3450173,,,,,,,OYO,,
+242,OYO Townhouse,Hotel,Brand: OYO,28.6448516,77.3222942,,,,,,,OYO,,"D-75, Behind Kaushambi Metro Station, Ghaziabad, 201010"
+243,Park Inn by Radisson,Hotel,Brand: Park Inn,28.6299385,77.3145775,,,,,,,Park Inn,,
+244,Radisson,Hotel,"Street: C block sector 55, Noida, 201307, Uttar Pradesh, India; Hours: Mo-Su 00:00-12:00",28.6042424,77.3500602,,,,Mo-Su 00:00-12:00,+911204678888,radissonhotels.com/radisson,,,"C block sector 55, Noida, 201307, Uttar Pradesh, India"
+245,Radisson BLU Kaushambi Dehli NCR,Hotel,Brand: Radisson Blu; Operator: Radisson,28.6366885,77.3278768,,,,,,,Radisson Blu,Radisson,
+246,Red Fox Hotel,Hotel,OpenStreetMap place listing,28.6069221,77.3329324,,,,,,,,,
+247,Rousha Inn,Hotel,OpenStreetMap place listing,28.6450235,77.3232443,,,,,,,,,
+248,Vaishali Inn,Hotel,OpenStreetMap place listing,28.6457348,77.33972,,,,,,,,,
+249,Alukka Gold Palace,Jewellery Store,OpenStreetMap place listing,28.6140116,77.3375901,,,,,,,,,
+250,Kanha Jewellers,Jewellery Store,OpenStreetMap place listing,28.644642,77.3388543,,,,,+91 87458 33172,,,,
+251,PP Jewellers,Jewellery Store,OpenStreetMap place listing,28.6360357,77.3689853,,,,,,,,,
+252,Sunhari Jewels,Jewellery Store,OpenStreetMap place listing,28.6445718,77.3390393,,,,,+91 96431 99001,,,,
+253,Kids and Kids,Kindergarten,OpenStreetMap place listing,28.6475289,77.3460134,,,,,,,,,
+254,JSS Library,Library,OpenStreetMap place listing,28.6125028,77.3589668,,,,,,,,,
+255,JVCC Library,Library,OpenStreetMap place listing,28.5848906,77.3367985,,,,,,,,,
+256,Siddhant the study library and reading cafe,Library,"Operator: Navneet K Sharma; Street: Rahul Vihar 2nd, Pratap Vihar, Sector 12; Hours: Mo-Su 08:30-20:30",28.6413463,77.4068396,,,,Mo-Su 08:30-20:30,,,,Navneet K Sharma,"KA 451 & 452, 2nd floor, Rahul Vihar 2nd, Pratap Vihar, Sector 12, Ghaziabad, 201009"
+257,Evergreen Sweets,Market,Hours: Mo-Sa 08:00-23:00,28.5833166,77.3636478,,,,Mo-Sa 08:00-23:00,,,,,
+258,Fish Market,Market,OpenStreetMap place listing,28.6169772,77.3694874,,,,,,,,,
+259,Mahagun market,Market,OpenStreetMap place listing,28.6348567,77.3619055,,,,,,,,,
+260,military canteen,Market,OpenStreetMap place listing,28.5873695,77.3351339,,,,,,,,,
+261,Sabzi Mandi,Market,OpenStreetMap place listing,28.6635799,77.3561401,,,,,,,,,
+262,sec 25 market,Market,OpenStreetMap place listing,28.5845494,77.3379775,,,,,,,,,
+263,sec 25 market,Market,OpenStreetMap place listing,28.584415,77.3380763,,,,,,,,,
+264,Sector 21 market,Market,OpenStreetMap place listing,28.5880452,77.3362011,,,,,,,,,
+265,Thursday Market,Market,Hours: Th 17:00-22:00,28.6020336,77.322665,,,,Th 17:00-22:00,,,,,
+266,Vaishali Sector-4 Market,Market,OpenStreetMap place listing,28.6439972,77.339436,,,,,,,,,
+267,Gupta Telecom,Mobile Store,OpenStreetMap place listing,28.5969926,77.3372677,,,,,,,,,
+268,Lenskart,Optical Store,Brand: Lenskart,28.6585091,77.3650562,,,,,,,Lenskart,,
+269,Lenskart,Optical Store,OpenStreetMap place listing,28.6446889,77.3384068,,,,,,,,,
+270,Lenskart,Optical Store,Brand: Lenskart,28.6365178,77.3604886,,,,,,,Lenskart,,
+271,Titan Eye+,Optical Store,OpenStreetMap place listing,28.6447123,77.3391665,,,,,,,,,
+272,A-Block Park Sector 52,Park,OpenStreetMap place listing,28.5881772,77.371701,,,,,,,,,
+273,Aashram park,Park,OpenStreetMap place listing,28.6600004,77.3811105,,,,,,,,,
+274,AB Park,Park,OpenStreetMap place listing,28.6379308,77.3619303,,,,,,,,,
+275,Amphitheatre,Park,OpenStreetMap place listing,28.6372276,77.3621202,,,,,,,,,
+276,"B-Block Park, Sector-52",Park,OpenStreetMap place listing,28.5879741,77.3691076,,,,,,,,,
+277,Bhagat Singh Park,Park,Street: Sector 17,28.6514088,77.3562036,,,,,,,,,"Sector 17, Ghaziabad, 201012"
+278,Build Tech Park,Park,OpenStreetMap place listing,28.6331143,77.3593281,,,,,,,,,
+279,C Block Park,Park,Street: Sector 58,28.6089032,77.3605637,,,,,,,,,"Sector 58, Noida, 201303"
+280,central park,Park,OpenStreetMap place listing,28.6357481,77.3512379,,,,,,,,,
+281,"Central Park, Sector 4",Park,OpenStreetMap place listing,28.6473818,77.34265,,,,,,,,,
+282,Cricket/Football Ground,Park,OpenStreetMap place listing,28.6361268,77.3612169,,,,,,,,,
+283,D Park,Park,OpenStreetMap place listing,28.6168587,77.3647137,,,,,,,,,
+284,DDA Park,Park,Hours: 24/7,28.6011223,77.3213173,,,,24/7,,,,,
+285,Dev Ahilya Bai Park,Park,OpenStreetMap place listing,28.6437444,77.3635587,,,,,,,,,
+286,Dronagiri Playground,Park,OpenStreetMap place listing,28.6571516,77.3660134,,,,,,,,,
+287,Durga Pooja Ground,Park,OpenStreetMap place listing,28.5825396,77.3405637,,,,,,,,,
+288,Durga Pooja Ground,Park,OpenStreetMap place listing,28.5825506,77.3405468,,,,,,,,,
+289,E-Block Park Sector 52,Park,OpenStreetMap place listing,28.5904949,77.3712494,,,,,,,,,
+290,Entrance,Park,OpenStreetMap place listing,28.6367798,77.3629406,,,,,,,,,
+291,Ericsson Park,Park,OpenStreetMap place listing,28.6306953,77.3649305,,,,,,,,,
+292,Express Garden,Park,OpenStreetMap place listing,28.6388139,77.3675614,,,,,,,,,
+293,Fountain Park,Park,OpenStreetMap place listing,28.5827935,77.3538847,,,,,,,,,
+294,gaur green avenue park,Park,OpenStreetMap place listing,28.63458,77.3419161,,,,,,,,,
+295,GDA Park,Park,OpenStreetMap place listing,28.6330765,77.3434855,,,,,,,,,
+296,green valley park,Park,OpenStreetMap place listing,28.6364669,77.3422185,,,,,,,,,
+297,Hi-Bird Park,Park,OpenStreetMap place listing,28.6430785,77.3854909,,,,,,,,,
+298,J block Park,Park,OpenStreetMap place listing,28.583995,77.338571,,,,,,,,,
+299,J-Block Park,Park,OpenStreetMap place listing,28.5840951,77.3385863,,,,,,,,,
+300,Jasmine Children's Park,Park,OpenStreetMap place listing,28.6432763,77.3842618,,,,,,,,,
+301,Jasmine Park,Park,OpenStreetMap place listing,28.6425243,77.3844209,,,,,,,,,
+302,Joggers Park,Park,OpenStreetMap place listing,28.6368887,77.3716193,,,,,,,,,
+303,JVCC Grounds,Park,OpenStreetMap place listing,28.5852143,77.3365869,,,,,,,,,
+304,Krishna Vatika Park,Park,OpenStreetMap place listing,28.6478621,77.336114,,,,,,,,,
+305,L Block Park,Park,OpenStreetMap place listing,28.5848615,77.3401195,,,,,,,,,
+306,L-Block Park,Park,Hours: 24/7,28.5969779,77.3348155,,,,24/7,,,,,
+307,L-block small park,Park,OpenStreetMap place listing,28.5978898,77.3360984,,,,,,,,,
+308,M block park,Park,OpenStreetMap place listing,28.5828236,77.3420453,,,,,,,,,
+309,M-Block Park,Park,OpenStreetMap place listing,28.5830124,77.3418583,,,,,,,,,
+310,Main park,Park,OpenStreetMap place listing,28.6368035,77.3611749,,,,,,,,,
+311,Major Kush Ground,Park,OpenStreetMap place listing,28.6376279,77.3762003,,,,,,,,,
+312,Mandir Park,Park,OpenStreetMap place listing,28.6611717,77.3791057,,,,,,,,,
+313,Meghdootam Park,Park,OpenStreetMap place listing,28.5754977,77.3726221,,,,,,,,,
+314,MNOP park,Park,OpenStreetMap place listing,28.6376847,77.3611243,,,,,,,,,
+315,Mother Dairy Park,Park,OpenStreetMap place listing,28.6458291,77.3402732,,,,,,,,,
+316,neighbourhood,Park,Hours: Mo-Fr 08:00-17:00,28.6414027,77.3489871,,,,Mo-Fr 08:00-17:00,,,,,"ghazibad, 201014"
+317,New Pragatisheel Park,Park,OpenStreetMap place listing,28.600921,77.3208305,,,,,,,,,
+318,Open Gym/Swings,Park,OpenStreetMap place listing,28.6375172,77.3615299,,,,,,,,,
+319,Palm Court Park,Park,OpenStreetMap place listing,28.645362,77.3380641,,,,,,,,,
+320,Park,Park,OpenStreetMap place listing,28.5816499,77.3619349,,,,,,,,,
+321,Park,Park,OpenStreetMap place listing,28.589342,77.3417599,,,,,,,,,
+322,Park,Park,Street: Park B Block; Hours: 24/7,28.6170155,77.3783355,,,,24/7,,,,,"Park B Block, Sector 63, 201301"
+323,Playing  Area,Park,OpenStreetMap place listing,28.6480941,77.3511093,,,,,,,,,
+324,Pocket A2 colony small park 2,Park,OpenStreetMap place listing,28.6108931,77.3359281,,,,,,,,,
+325,Pocket A2 small park 2,Park,OpenStreetMap place listing,28.6105213,77.3367541,,,,,,,,,
+326,Podium Park,Park,OpenStreetMap place listing,28.6485977,77.3373386,,,,,,,,,
+327,Priyadarshani Park,Park,OpenStreetMap place listing,28.5965551,77.3388661,,,,,,,,,
+328,Pt Ram Keval Mishra Park,Park,OpenStreetMap place listing,28.5971774,77.370713,,,,,,,,,
+329,Ram Leela ground,Park,OpenStreetMap place listing,28.5922544,77.3407045,,,,,,,,,
+330,recycled land park,Park,Operator: shipra; Hours: 24/7,28.6389777,77.3720687,,,,24/7,,,,shipra,"shipra, Ghaziabad, 201014"
+331,royal tower park,Park,Operator: shipra suncity; Hours: 24/7,28.6388241,77.3779386,,,,24/7,,,,shipra suncity,
+332,Saffron Park,Park,OpenStreetMap place listing,28.6439221,77.3838239,,,,,,,,,
+333,Santushti Park,Park,OpenStreetMap place listing,28.6468464,77.3412718,,,,,,,,,
+334,Sector 21 park,Park,OpenStreetMap place listing,28.5871533,77.3354945,,,,,,,,,
+335,Sector 34 Park,Park,OpenStreetMap place listing,28.5837739,77.3567721,,,,,,,,,
+336,Sector 62 B Block Rain Water Warvesting Park,Park,OpenStreetMap place listing,28.6206854,77.3722327,,,,,,,,,
+337,"SFS, Central Park",Park,OpenStreetMap place listing,28.6063478,77.3374864,,,,,,,,,
+338,Shaheed Swapnil vatika,Park,OpenStreetMap place listing,28.6455082,77.3437612,,,,,,,,,
+339,Shipra Krishna Vista Park,Park,OpenStreetMap place listing,28.640425,77.3742553,,,,,,,,,
+340,Shivaji Park,Park,OpenStreetMap place listing,28.6367421,77.3499055,,,,,,,,,
+341,Smriti Van,Park,Area: Kondli,28.606723,77.3385207,,,,,,,,,"Kondli, 110096"
+342,Sports Ground,Park,Operator: Ryan International School,28.6141047,77.3358697,,,,,,,,Ryan International School,
+343,Swarna Jayanti Park,Park,OpenStreetMap place listing,28.6437671,77.3683511,,,,,,,,,
+344,Swimming pool park,Park,OpenStreetMap place listing,28.6372321,77.3615368,,,,,,,,,
+345,Swings,Park,OpenStreetMap place listing,28.6373095,77.3617792,,,,,,,,,
+346,Table tennis hall,Park,OpenStreetMap place listing,28.6371253,77.361007,,,,,,,,,
+347,Tikona park,Park,OpenStreetMap place listing,28.6611374,77.3824183,,,,,,,,,
+348,Tikona Park,Park,OpenStreetMap place listing,28.6349764,77.3652751,,,,,,,,,
+349,Triphala Park,Park,Street: Sector 52,28.5947656,77.3685013,,,,,,,,,"Sector 52, Noida, 201303"
+350,Vaibhav Park,Park,"Street: Vaibhav Khand, Indirapuram",28.6366511,77.3631935,,,,,,,,,"Vaibhav Khand, Indirapuram, Ghaziabad, 201014"
+351,Ansal Plaza Parking,Parking,OpenStreetMap place listing,28.645744,77.3328971,,,,,,,,,
+352,EEM Parking,Parking,OpenStreetMap place listing,28.6452155,77.3262097,,,,,,,,,
+353,EEM Parking,Parking,OpenStreetMap place listing,28.6450025,77.3267321,,,,,,,,,
+354,Galaxie Mall Parking,Parking,OpenStreetMap place listing,28.6546409,77.3454531,,,,,,,,,
+355,Kaushambi Metro Station Parking,Parking,OpenStreetMap place listing,28.6454235,77.3252315,,,,,,,,,
+356,Kaushambi Metro Station Parking,Parking,OpenStreetMap place listing,28.6452959,77.3226133,,,,,,,,,
+357,MCD Parking Kondli,Parking,OpenStreetMap place listing,28.6090754,77.3269618,,,,,,,,,
+358,Shopprix Food Plaza Parking,Parking,OpenStreetMap place listing,28.6453427,77.3286205,,,,,,,,,
+359,Shopprix Mall Parking,Parking,OpenStreetMap place listing,28.6429587,77.3405307,,,,,,,,,
+360,Vaishali Metro Station Multi Level Car Parkin,Parking,OpenStreetMap place listing,28.6505633,77.3409909,,,,,,,,,
+361,Vaishali Metro Station Parking,Parking,OpenStreetMap place listing,28.6497699,77.3395633,,,,,,,,,
+362,Yashoda Hospital Parking,Parking,OpenStreetMap place listing,28.6454298,77.3284849,,,,,,,,,
+363,Apollo Pharmacy,Pharmacy,Brand: Apollo Pharmacy; Operator: Apollo,28.639222,77.3620199,,,,,,,Apollo Pharmacy,Apollo,
+364,Apollo Pharmacy,Pharmacy,Brand: Apollo Pharmacy,28.6371339,77.3760252,,,,,,,Apollo Pharmacy,,
+365,Apollo Pharmacy,Pharmacy,Brand: Apollo Pharmacy,28.6383442,77.3689305,,,,,,,Apollo Pharmacy,,
+366,Davaindia generic pharmacy,Pharmacy,Operator: manish; Street: Thapar road; Hours: 24/7,28.6141064,77.3455651,,,,24/7,+919716092777,https://davaindia.xyz,,manish,"334, Thapar Rd, near Electricity Transfermer, near Kallu cement agency, Shiv Vihar, Shital Vihar, Khora Colony, Sector 62, Noida, Uttar Pradesh 201309, Thapar road, noida, 201309"
+367,Family Care Medicos,Pharmacy,Hours: PH open,28.6449103,77.3387218,,,,PH open,+91 98718 78651,,,,
+368,Good Will Medicos,Pharmacy,OpenStreetMap place listing,28.644621,77.3388292,,,,,,,,,
+369,Krishna Medicos,Pharmacy,OpenStreetMap place listing,28.5971051,77.3374521,,,,,,,,,
+370,Life Line Medicos,Pharmacy,OpenStreetMap place listing,28.5979684,77.3353961,,,,,,,,,
+371,Neelkanth,Pharmacy,OpenStreetMap place listing,28.6417646,77.3794073,,,,,,,,,
+372,Santoshi Medicos,Pharmacy,OpenStreetMap place listing,28.6373924,77.3694578,,,,,,,,,
+373,Vikas Mediacl Store,Pharmacy,OpenStreetMap place listing,28.6408743,77.3204776,,,,,,,,,
+374,Arya Samaj Mandir,Place of Worship,Street: Sector 33,28.5896864,77.3562701,,,,,,,,,"B96, Sector 33, Noida, 201307"
+375,Durga Temple,Place of Worship,OpenStreetMap place listing,28.6503491,77.3461548,,,,,,,,,
+376,Gurudwara,Place of Worship,OpenStreetMap place listing,28.6101424,77.337034,,,,,,,,,
+377,Hanuman Mandif,Place of Worship,Street: sector 11,28.5976123,77.335535,,,,,,,,,sector 11
+378,hanuman mandir,Place of Worship,OpenStreetMap place listing,28.6368307,77.3426181,,,,,,,,,
+379,Hindu shiv temple,Place of Worship,Street: D-1 block,28.5893507,77.3696447,,,,,,,,,"aravli appartment, D-1 block, noida, 201301"
+380,Jama Masjid Sector 8 noida,Place of Worship,OpenStreetMap place listing,28.593481,77.3269372,,,,,,,,,
+381,Kali Mata Mandir,Place of Worship,OpenStreetMap place listing,28.6459744,77.3488646,,,,,,,,,
+382,Mandir,Place of Worship,OpenStreetMap place listing,28.6297302,77.37231,,,,,,,,,
+383,Mother of Perpetual Succour Church,Place of Worship,OpenStreetMap place listing,28.6144743,77.3407289,,,,,,,,,
+384,Neelkanth Shiv Mandir,Place of Worship,OpenStreetMap place listing,28.6081142,77.3577226,,,,,,,,,201301
+385,Prachin Shiv Shakti Mandir,Place of Worship,OpenStreetMap place listing,28.6045351,77.3322124,,,,,,,,,
+386,Saint Stephen's Mar Thoma Church,Place of Worship,OpenStreetMap place listing,28.6169528,77.3380479,,,,,,,,,
+387,Sankatmochan Hanuman Temple,Place of Worship,OpenStreetMap place listing,28.6413122,77.3278536,,,,,,,,,
+388,Shani Madir,Place of Worship,Street: Vasundhara,28.6532089,77.3553804,,,,,,,,,"Sector 17, Vasundhara, Ghaziabad, 201012"
+389,Shipra Temple,Place of Worship,OpenStreetMap place listing,28.6391255,77.3782631,,,,,,,,,
+390,Shiv Shakti Temple,Place of Worship,Street: Indirapuram,28.6445782,77.3624484,,,,,,,,,"Niti Khand 1, Indirapuram, Ghaziabad, 201014"
+391,Shiv temple,Place of Worship,OpenStreetMap place listing,28.6357135,77.3597001,,,,,,,,,
+392,Shivji Temple,Place of Worship,OpenStreetMap place listing,28.6492289,77.3523888,,,,,,,,,
+393,Shree Vinayaka temple,Place of Worship,OpenStreetMap place listing,28.6149451,77.3599203,,,,,,,,,
+394,Shree Vinayaka temple,Place of Worship,OpenStreetMap place listing,28.6149189,77.3599265,,,,,,,,,
+395,Siddhivinayak Ganesh Temple,Place of Worship,OpenStreetMap place listing,28.6114263,77.3365869,,,,,,,,,
+396,Small Lord Hanuman Idol,Place of Worship,OpenStreetMap place listing,28.6571882,77.3654141,,,,,,,,,
+397,St. Mary's Church,Place of Worship,OpenStreetMap place listing,28.5848609,77.3601866,,,,,,,,,
+398,Swetamber Jain Sthanak,Place of Worship,OpenStreetMap place listing,28.5919304,77.3532353,,,,,,,,,
+399,TPM (The Pentecostal Mission Church) khora colony,Place of Worship,Street: G.C Public School Road,28.6106772,77.3514627,,,,,,,,,"G.C Public School Road, 201001"
+400,प्राचीन शिव हनुमान मंदिर,Place of Worship,OpenStreetMap place listing,28.6093781,77.3731255,,,,,,,,,
+401,C Block Ground,Playground,OpenStreetMap place listing,28.6149664,77.3683608,,,,,,,,,
+402,Children Play Area,Playground,OpenStreetMap place listing,28.6454189,77.3691477,,,,,,,,,
+403,Central Industrial Security Force,Police Station,OpenStreetMap place listing,28.6362915,77.3812639,,,,,,,,,
+404,Noida Sector 24 Police Station,Police Station,Operator: The Government of Uttar Pradesh; Street: Sector-24; Hours: 24/7,28.5890153,77.3514693,,,,24/7,,,,The Government of Uttar Pradesh,"Block B, Sector-24, Noida, 201307"
+405,"Police Post Kaushambi, Police Station Indirapuram",Police Station,OpenStreetMap place listing,28.6421878,77.3270651,,,,,,,,,
+406,"Police Post, Sector 17, Vasundhara",Police Station,Operator: Uttar Pradesh Police; Street: Vasundhra,28.6520096,77.3558766,,,,,,,,Uttar Pradesh Police,"Police Post, Sector 17, Vasundhra, Ghaziabad, 201012"
+407,Police Station New Ashok Nagar,Police Station,OpenStreetMap place listing,28.6037632,77.323488,,,,,,,,,
+408,Police Station Sector-12,Police Station,OpenStreetMap place listing,28.5932105,77.3407466,,,,,,,,,
+409,Shipra Police station,Police Station,OpenStreetMap place listing,28.6378072,77.3782631,,,,,,,,,
+410,Vaishali POlice Station,Police Station,OpenStreetMap place listing,28.6490602,77.351376,,,,,,,,,
+411,DTDC,Post Office,Brand: Desk to Desk Courier & Cargo; Operator: Desk to Desk Courier & Cargo; Hours: Mo-Sa 09:00-21:00; PH closed,28.6128537,77.3778423,,,,Mo-Sa 09:00-21:00; PH closed,,,Desk to Desk Courier & Cargo,Desk to Desk Courier & Cargo,"52, Noida, 201301"
+412,Vasundhara Post Office,Post Office,Operator: India Post; Street: Sector 17,28.6530888,77.3555025,,,,,,,,India Post,"Vasundhara Post Office, Sector 17, Ghaziabad, 201012"
+413,Pink Toilet,Public Toilet,OpenStreetMap place listing,28.6271958,77.374612,,,,,,,,,
+414,Aggarwal,Restaurant,Cuisine: regional,28.6117129,77.3358773,,,regional,,,,,,
+415,Al Faham,Restaurant,OpenStreetMap place listing,28.6054266,77.3335724,,,,,,,,,
+416,Amars Express,Restaurant,Cuisine: chinese;indian,28.6444724,77.3386389,,,chinese;indian,,+91 88606 07026,amarsexpress.com,,,
+417,Berco's Garden,Restaurant,Cuisine: chinese,28.594222,77.3389703,,,chinese,,,,,,
+418,Bikaner,Restaurant,Cuisine: regional,28.6116229,77.3357988,,,regional,,,,,,
+419,Bikaner Sweets,Restaurant,Area: Indirapuram,28.6463623,77.3673012,,,,,,,,,"66, Indirapuram, Ghaziabad, 201014"
+420,Bikanervala,Restaurant,OpenStreetMap place listing,28.6532866,77.3427559,,,,,,https://bikanervala.com/family-restaurant/north-indian-cuisine.aspx/9-0-499-0,,,
+421,Bole To Vada Pav,Restaurant,OpenStreetMap place listing,28.6444468,77.3389274,,,,,,,,,
+422,BOMBAY VADA PAV,Restaurant,Cuisine: indian,28.624167,77.3653083,,,indian,,,,,,
+423,Bukhara,Restaurant,OpenStreetMap place listing,28.6142041,77.3715342,,,,,,,,,
+424,Burger King,Restaurant,Brand: Burger King; Cuisine: burger,28.649841,77.3396796,,,burger,,,,Burger King,,
+425,Burger Singh,Restaurant,OpenStreetMap place listing,28.6363062,77.3622875,,,,,,,,,
+426,Café Delhi Heights,Restaurant,Hours: 11:00-00:00,28.625985,77.3755168,,,,11:00-00:00,,,,,
+427,Canteen,Restaurant,OpenStreetMap place listing,28.6145287,77.3367471,,,,,,,,,
+428,Captain's vintage restro and cafe,Restaurant,"Cuisine: indian;chinese;coffee_shop;regional;chicken;sandwich;ice_cream; Street: BN tripathi marg, shakti khand-2, Indrapuram; Hours: Mo-Su 12:00-23:00",28.647219,77.3717977,,,indian;chinese;coffee_shop;regional;chicken;sandwich;ice_cream,Mo-Su 12:00-23:00,+91-8810555649,https://www.instagram.com/captainsvintagerestrocafe6/,,,"165, BN tripathi marg, shakti khand-2, Indrapuram, ghaziabad, 201014"
+429,Central market,Restaurant,OpenStreetMap place listing,28.6368844,77.37601,,,,,,,,,
+430,Chai Coffee Chronicles,Restaurant,Cuisine: indian;chinese;breakfast;coffee_shop,28.6011616,77.3224701,,,indian;chinese;breakfast;coffee_shop,,,,,,
+431,Chai Garam,Restaurant,OpenStreetMap place listing,28.646192,77.3652284,,,,,,,,,
+432,Chat Corner,Restaurant,OpenStreetMap place listing,28.6512848,77.3529923,,,,,,,,,
+433,Chinese Hut,Restaurant,Cuisine: chinese,28.6446147,77.3390344,,,chinese,,,,,,
+434,Cocoon Restaurant,Restaurant,Brand: Cocoon Restaurant; Cuisine: indian;chinese;continental;fast_food; Street: friends society road; Hours: Mo-Su 12:00-23:00,28.6619582,77.3605149,,,indian;chinese;continental;fast_food,Mo-Su 12:00-23:00,+91 85870 00709,http://www.cocoonrestro.com/,Cocoon Restaurant,,"C2 Sector 14A Vasundhara, friends society road, Ghaziabad, 201012"
+435,Cocoon Restaurant,Restaurant,Brand: Cocoon Restaurant; Cuisine: indian;chinese;continental;fast_food; Street: friend society road; Hours: Mo-Su 12:00-23:00,28.6619545,77.3605192,,,indian;chinese;continental;fast_food,Mo-Su 12:00-23:00,+91 85870 00709,http://www.cocoonrestro.com/,Cocoon Restaurant,,"C2 Sector 14A Vasundhara, friend society road, Ghaziabad, 201012"
+436,Dada ji ki rasoi,Restaurant,OpenStreetMap place listing,28.6363525,77.3623592,,,,,,,,,
+437,Dhaba Diaries,Restaurant,Cuisine: indian,28.6444996,77.3386086,,,indian,,,,,,
+438,Domino's,Restaurant,Brand: Domino's; Cuisine: pizza,28.6376778,77.3604734,,,pizza,,,,Domino's,,
+439,Domino's,Restaurant,Brand: Domino's; Cuisine: pizza,28.658301,77.3646169,,,pizza,,,,Domino's,,
+440,Domino's,Restaurant,Cuisine: pizza,28.6012197,77.3225099,,,pizza,,,,,,
+441,Eden kitchen,Restaurant,"Cuisine: burger;italian;barbecue;indian; Street: 2nd Floor, Shopprix Mall",28.6000984,77.3720058,,,burger;italian;barbecue;indian,,098188 88857,edenkitchenandbar.co.in,,,"434-438,, 2nd Floor, Shopprix Mall, Ashok Marg, Sector 61, Noida,, 201301"
+442,Food Plaza,Restaurant,Cuisine: regional,28.6012031,77.32235,,,regional,,,,,,
+443,French Oven,Restaurant,OpenStreetMap place listing,28.6362054,77.3620828,,,,,,,,,
+444,French oven,Restaurant,OpenStreetMap place listing,28.6361602,77.3620177,,,,,,,,,
+445,Ganesh South Indian,Restaurant,Hours: Mo-Su 10:00-20:00,28.6009848,77.3222238,,,,Mo-Su 10:00-20:00,,,,,
+446,Gang-Talk,Restaurant,Cuisine: italian;international;chinese;burger;dumplings;korean;pasta;pizza,28.6012334,77.3223695,,,italian;international;chinese;burger;dumplings;korean;pasta;pizza,,,,,,
+447,Golgappe,Restaurant,OpenStreetMap place listing,28.6515675,77.352728,,,,,,,,,
+448,Gud Katha,Restaurant,Cuisine: indian;chinese; Area: Sector 122; Street: Main Road,28.5933218,77.3970331,,,indian;chinese,,,,,,"Main Road, Sector 122, Noida"
+449,Haldiram's,Restaurant,Brand: Haldiram's; Operator: Haldiram; Cuisine: indian,28.6396915,77.378216,,,indian,,,,Haldiram's,Haldiram,
+450,Haldiram's,Restaurant,Brand: Haldiram's; Cuisine: indian,28.628021,77.3751752,,,indian,,,,Haldiram's,,
+451,Haldiram's,Restaurant,Brand: Haldiram's; Operator: Haldiram Ethnic Foods Private Limited; Cuisine: indian; Area: Sector 63; Hours: Mo-Su 10:00-23:00,28.6259929,77.3752127,,,indian,Mo-Su 10:00-23:00,,,Haldiram's,Haldiram Ethnic Foods Private Limited,"A-154/A, Sector 63, Noida"
+452,Hira Sweets,Restaurant,Cuisine: indian,28.6396558,77.369791,,,indian,,,,,,
+453,Hotel Malabar,Restaurant,OpenStreetMap place listing,28.6127332,77.3362991,,,,,,,,,
+454,Kamine kebabs,Restaurant,Cuisine: kebab,28.6383645,77.3607683,,,kebab,,,,,,
+455,Kartikey Food Corner,Restaurant,OpenStreetMap place listing,28.6476713,77.3372784,,,,,,,,,
+456,Keventers,Restaurant,OpenStreetMap place listing,28.6362223,77.3621483,,,,,,,,,
+457,Kitchen Connect,Restaurant,Hours: Mo-Su 11:00-23:00; PH closed,28.6129902,77.377938,,,,Mo-Su 11:00-23:00; PH closed,,,,,"50, Noida, 201301"
+458,Kuki Kathi Junction,Restaurant,"Cuisine: indian;kebab;chicken; Street: Mayur Vihar Phase 3 Road, Pocket A2; Hours: Mo-Su 16:00-23:00",28.6117272,77.3358126,,,indian;kebab;chicken,Mo-Su 16:00-23:00,+91 9953828506,https://kukikathijunction.com,,,"Mayur Vihar Phase 3 Road, Pocket A2, Delhi, 110096"
+459,Madras Cafe,Restaurant,OpenStreetMap place listing,28.6375854,77.3605971,,,,,,,,,
+460,McDonald's,Restaurant,Brand: McDonald's; Cuisine: burger,28.6429561,77.3407311,,,burger,,,,McDonald's,,
+461,McDonald's,Restaurant,Brand: McDonald's; Cuisine: burger,28.6445191,77.3348946,,,burger,,,,McDonald's,,
+462,McDonald's,Restaurant,Brand: McDonald's; Cuisine: burger,28.6470923,77.3756407,,,burger,,,,McDonald's,,
+463,McDonald's,Restaurant,Brand: McDonald's; Cuisine: burger,28.6247552,77.3753081,,,burger,,,,McDonald's,,
+464,Metro Munch,Restaurant,OpenStreetMap place listing,28.6177193,77.3733032,,,,,,,,,
+465,Mohan Dhaba,Restaurant,OpenStreetMap place listing,28.6474273,77.3465409,,,,,,,,,
+466,Mr. Bhatura,Restaurant,OpenStreetMap place listing,28.5933376,77.396964,,,,,,,,,
+467,Nazeer Foods,Restaurant,OpenStreetMap place listing,28.6583915,77.3647817,,,,,,,,,
+468,Nihal Sweets and Restaurant,Restaurant,OpenStreetMap place listing,28.6635351,77.378065,,,,,,,,,
+469,Pizza Hut,Restaurant,Brand: Pizza Hut; Cuisine: regional; Street: SDF,28.5917336,77.3484898,,,regional,,,,Pizza Hut,,"A32, SDF, DELHI, 11008"
+470,Pizza Hut,Restaurant,Brand: Pizza Hut; Cuisine: pizza,28.6376258,77.3604907,,,pizza,,,,Pizza Hut,,
+471,Pizza Hut,Restaurant,Brand: Pizza Hut; Cuisine: pizza,28.658345,77.3647049,,,pizza,,,,Pizza Hut,,
+472,PIZZA PLUS,Restaurant,Cuisine: pizza,28.6600198,77.368082,,,pizza,,,,,,
+473,Punjab Grill,Restaurant,Brand: Punjab Grill; Operator: Lite Bite Foods Private Limited; Cuisine: north_indian,28.6343435,77.3699915,,,north_indian,,,,Punjab Grill,Lite Bite Foods Private Limited,
+474,Raj Restuarant,Restaurant,Cuisine: regional,28.6114967,77.3360041,,,regional,,,,,,
+475,Rom's Pizza,Restaurant,Brand: Rom's Pizza; Cuisine: pizza; Area: Indirapuram,28.6463778,77.36715,,,pizza,,,,Rom's Pizza,,"66, Indirapuram, Ghaziabad, 201014"
+476,Roms Pizza,Restaurant,Cuisine: pizza,28.6466575,77.3478454,,,pizza,,,,,,
+477,Santushti Vegetarian Restaurant,Restaurant,Cuisine: indian;northern_indian;southern_indian;chinese; Hours: Mo-Su 11:00-23:00,28.5977677,77.3358485,,,indian;northern_indian;southern_indian;chinese,Mo-Su 11:00-23:00,+91-9810648835,https://www.santushtiveg.com/contact-us,,,"Shop 21, Noida, 201301"
+478,Shrvan Pan,Restaurant,OpenStreetMap place listing,28.6477883,77.3371923,,,,,,,,,
+479,SMS FOOD VILLA,Restaurant,OpenStreetMap place listing,28.6606903,77.3693638,,,,,,,,,
+480,storypay,Restaurant,Cuisine: burger; Street: noida,28.6295889,77.3763121,,,burger,,917503515256,,,,"h 73, noida, noida"
+481,Subway,Restaurant,Brand: Subway; Cuisine: sandwich,28.6010116,77.3224667,,,sandwich,,,,Subway,,
+482,Tandoori Hut,Restaurant,Cuisine: indian,28.644378,77.3388058,,,indian,,,,,,
+483,Thapa Momos;Thapa momos,Restaurant,OpenStreetMap place listing,28.6346735,77.3624843,,,,,,,,,
+484,The Reader's Cafe,Restaurant,Cuisine: cafe; Hours: Mo-Su 11:00-23:00,28.6397241,77.3696032,,,cafe,Mo-Su 11:00-23:00,,,,,
+485,Tiffyn,Restaurant,Cuisine: regional,28.6011207,77.3222319,,,regional,,,,,,
+486,Vish Paratha Stall,Restaurant,Cuisine: indian; Hours: Mo-Su 10:00-18:30; PH closed,28.6014812,77.3227048,,,indian,Mo-Su 10:00-18:30; PH closed,+91 88103 94070; +91 83684 83277,,,,
+487,Waah Guruji Chaap & Curries,Restaurant,OpenStreetMap place listing,28.6444989,77.3389697,,,,,,,,,
+488,Waffle Chowk,Restaurant,OpenStreetMap place listing,28.6387959,77.3654336,,,,,,,,,
+489,Wakhra Swad,Restaurant,Cuisine: indian;punjabi,28.597601,77.3357857,,,indian;punjabi,,,,,,
+490,wood box,Restaurant,OpenStreetMap place listing,28.63594,77.3616646,,,,,,,,,
+491,Wow! China,Restaurant,OpenStreetMap place listing,28.6248669,77.3754652,,,,,,,,,
+492,Xero Degrees,Restaurant,OpenStreetMap place listing,28.6277983,77.374926,,,,,,,,,
+493,Yellow Bowl,Restaurant,Cuisine: indian,28.6447837,77.339013,,,indian,,,,,,
+494,Amity International School,School,OpenStreetMap place listing,28.6652259,77.3753204,,,,,,,,,"Sector 6, Vasundhara, Ghaziabad, 201012"
+495,Aryan Public School,School,OpenStreetMap place listing,28.6453092,77.3417109,,,,,,,,,
+496,Assisi Convent School,School,OpenStreetMap place listing,28.5881474,77.3537913,,,,,,,,,
+497,Bal Bharti Public School,School,OpenStreetMap place listing,28.5853451,77.3372966,,,,,,,,,
+498,Bal Bharti Public School Grounds,School,OpenStreetMap place listing,28.5852783,77.3372454,,,,,,,,,
+499,Bharti Public School,School,Operator: Private,28.6060857,77.3324745,,,,,+91 11 2262 4256,https://www.bps.edu.in/mv.php,,Private,110096
+500,Billabong High School,School,OpenStreetMap place listing,28.5844427,77.3628518,,,,,,,,,
+501,Cambridge School,School,Street: Suchitrakriplani Marg,28.6472526,77.3646474,,,,,,,,,"Suchitrakriplani Marg, 201014"
+502,DPS Indirapuram,School,OpenStreetMap place listing,28.6459659,77.3800361,,,,,,,,,
+503,DPS Indirapuram,School,OpenStreetMap place listing,28.6475454,77.3764446,,,,,,,,,
+504,DPS Indirapuram,School,OpenStreetMap place listing,28.6479108,77.3763943,,,,,,,,,
+505,East Delhi Municipal Corporation Primary School,School,OpenStreetMap place listing,28.6198874,77.3139487,,,,,,,,,
+506,East Point School,School,Operator: East Point Education Society; Street: Vasundhara Enclave,28.6022542,77.3234207,,,,,,https://www.eastpointschooldelhi.edu.in,,East Point Education Society,"Vasundhara Enclave, Delhi, 110096"
+507,G D Goenka school ground,School,OpenStreetMap place listing,28.6489828,77.3676308,,,,,,,,,"Indirapuram, 201014"
+508,Government Girls/Boys Secondary School,School,OpenStreetMap place listing,28.6004297,77.3196867,,,,,,,,,
+509,Govt School,School,"Operator: Government; Street: Gharoli Road, Mayur Vihar Phase - 3",28.6089818,77.3297113,,,,,,,,Government,"Gharoli Road, Mayur Vihar Phase - 3, Delhi, 110096"
+510,Govt School,School,Operator: Govt Aided,28.6067139,77.3321416,,,,,,,,Govt Aided,110096
+511,Kendriya Vidyalaya,School,Brand: Kendriya Vidyalaya,28.5895184,77.3492078,,,,,,,Kendriya Vidyalaya,,"Noida, 201301"
+512,Kerela Education Society Senior Secondary School,School,Operator: Kerela Education Society,28.615348,77.3406432,,,,,,,,Kerela Education Society,
+513,KV ground,School,OpenStreetMap place listing,28.5895462,77.3487453,,,,,,,,,
+514,M.S. Tutorial,School,OpenStreetMap place listing,28.6449294,77.3386733,,,,,,,,,108
+515,Modern School,School,OpenStreetMap place listing,28.599699,77.3366528,,,,,,,,,
+516,Mohan International School,School,OpenStreetMap place listing,28.6138206,77.366548,,,,,,,,,
+517,"Rajkiya Pratibha Vikas Vidyalaya ,I.P. Extension",School,OpenStreetMap place listing,28.6315581,77.3144956,,,,,,,,,
+518,Rajkiya Sarvodaya Bal Vidyalaya,School,OpenStreetMap place listing,28.6138254,77.3185994,,,,,+91-11-2277-0246,,,,
+519,Rajkiya Sarvodaya Kanya Vidyalaya (Jeeja Bai),School,OpenStreetMap place listing,28.6147038,77.3194623,,,,,+91-11-2277-8735,,,,
+520,Ralli International,School,OpenStreetMap place listing,28.644749,77.3756077,,,,,,,,,
+521,Ryan International School,School,OpenStreetMap place listing,28.6139975,77.3363159,,,,,,,,,110096
+522,Saint Francis School,School,Street: Hindon Elevated Road,28.6406389,77.3469914,,,,,,,,,"Hindon Elevated Road, Indirapuram, 201014"
+523,Saint Mary's Senior Secondary School,School,OpenStreetMap place listing,28.6106632,77.3379465,,,,,,,,,
+524,Saint Thomas School,School,OpenStreetMap place listing,28.6443015,77.3515177,,,,,,,,,
+525,Salwan Public School,School,OpenStreetMap place listing,28.6102872,77.3398498,,,,,,,,,
+526,Somerville School,School,Hours: Mo-Sa 07:30-15:30,28.5946211,77.3495669,,,,Mo-Sa 07:30-15:30,"0120-2415050, 0120-4214595",https://www.somervillenoida.in/,,,D-89
+527,Sommerville School,School,OpenStreetMap place listing,28.6033186,77.3184964,,,,,,https://somervillevasundhara.in/,,,
+528,Vanasthali Public School,School,OpenStreetMap place listing,28.6045491,77.3350645,,,,,,,,,
+529,Vidya Bal Bhavan Sr Secondary School,School,"Operator: Private; Street: Gharoli Road, Mayur Vihar Phase - 3",28.6085539,77.330156,,,,,,http://www.vidyabalbhawan.com/,,Private,"Gharoli Road, Mayur Vihar Phase - 3, Delhi, 110096"
+530,Vidya Bal Bhawan Public School,School,OpenStreetMap place listing,28.6554128,77.3682051,,,,,,,,,
+531,Vivekanand Global School,School,OpenStreetMap place listing,28.6337909,77.3596137,,,,,,,,,
+532,Vivekanand Global School,School,OpenStreetMap place listing,28.6348082,77.3598223,,,,,,,,,
+533,दिल्ली पब्लिक स्कूल गाजियाबाद वसुंधरा,School,"Street: Sector 9, Vasundhara",28.6577156,77.3707014,,,,,,,,,"Sector 9, Vasundhara, Sector 9, Vasundhara, Ghaziabad, 201012"
+534,Classic Shoes,Shoe Store,OpenStreetMap place listing,28.5970792,77.3374136,,,,,,,,,
+535,Saheli Footwear,Shoe Store,OpenStreetMap place listing,28.6447048,77.3384984,,,,,+91 120 456 9237,,,,
+536,A1 Pharmacy,Shop,OpenStreetMap place listing,28.650978,77.3532596,,,,,,,,,
+537,A2Z Departmentl Store,Shop,OpenStreetMap place listing,28.6522988,77.3521121,,,,,,,,,
+538,Aakriti Toys & Sports,Shop,OpenStreetMap place listing,28.6445915,77.3387912,,,,,+91 99113 53242,,,,
+539,Aggarwal,Shop,OpenStreetMap place listing,28.6638528,77.3766671,,,,,,,,,
+540,AMC dairy,Shop,OpenStreetMap place listing,28.6369236,77.3623913,,,,,,,,,
+541,Anand Bhaiya,Shop,OpenStreetMap place listing,28.5873114,77.3320254,,,,,,,,,
+542,Annupurna Store,Shop,OpenStreetMap place listing,28.6506473,77.3533593,,,,,,,,,
+543,awesome beauty salon,Shop,OpenStreetMap place listing,28.6618487,77.3778313,,,,,,,,,
+544,Barbershop,Shop,Street: Sector 15,28.6523829,77.3577741,,,,,,,,,"Sector 15, Ghaziabad, 201012"
+545,Beats,Shop,OpenStreetMap place listing,28.6448087,77.3388371,,,,,+91 98997 21794,,,,
+546,Beats Musical Store,Shop,OpenStreetMap place listing,28.6445603,77.3385661,,,,,+91 98997 21794,guitarlelo.com,,,
+547,Bikaner,Shop,OpenStreetMap place listing,28.6364031,77.3605785,,,,,,,,,
+548,Bittu Mehndi 88 Tattoo Studio,Shop,OpenStreetMap place listing,28.6446726,77.3384725,,,,,+91 90275 87218,,,,
+549,BRIGHT POINT DRY CLEANING,Shop,OpenStreetMap place listing,28.5957539,77.3475166,,,,,9958905301,,,,"Sec 22, H-Block, Noida, 201301"
+550,Chaudhary Nursery,Shop,OpenStreetMap place listing,28.6447709,77.3300256,,,,,,,,,
+551,Cheverolet Automobile,Shop,OpenStreetMap place listing,28.6530871,77.3423887,,,,,,,,,
+552,Cheverolet Automobile,Shop,OpenStreetMap place listing,28.6532378,77.3422278,,,,,,,,,
+553,Chinese food corner,Shop,OpenStreetMap place listing,28.647764,77.3370583,,,,,,,,,
+554,cocobeans bakery,Shop,OpenStreetMap place listing,28.6623594,77.377661,,,,,,,,,
+555,Corporate dhabba,Shop,OpenStreetMap place listing,28.6235641,77.3872329,,,,,,,,,
+556,Dainik Jagran,Shop,OpenStreetMap place listing,28.6267957,77.3828073,,,,,,,,,
+557,Dynamic Fabric,Shop,Hours: Mo-Sa 10:00-19:00; PH closed,28.6120735,77.3778317,,,,Mo-Sa 10:00-19:00; PH closed,,https://www.dynamicfabric.in/,,,
+558,Fashion Hut,Shop,OpenStreetMap place listing,28.6448908,77.3387308,,,,,+91 99107 02424,,,,
+559,Fish,Shop,OpenStreetMap place listing,28.5789048,77.3608367,,,,,,,,,
+560,flower shop,Shop,OpenStreetMap place listing,28.6643988,77.3778223,,,,,,,,,
+561,GC grand,Shop,Street: Kala Pathar Road,28.6356229,77.3621866,,,,,,,,,Kala Pathar Road
+562,Geeta Cosmetics,Shop,OpenStreetMap place listing,28.6446968,77.3384903,,,,,,,,,
+563,Grocery Store,Shop,OpenStreetMap place listing,28.6496623,77.3522727,,,,,,,,,
+564,Hero Motorcorp,Shop,Brand: Hero,28.6529271,77.3421527,,,,,,,Hero,,
+565,Jawed Habib,Shop,OpenStreetMap place listing,28.6360673,77.361903,,,,,,,,,
+566,Jha ji dairy,Shop,OpenStreetMap place listing,28.6368106,77.3625022,,,,,,,,,
+567,Kanak Boutique,Shop,OpenStreetMap place listing,28.6604054,77.3786788,,,,,,,,,
+568,KANHA SWEET'S,Shop,OpenStreetMap place listing,28.6603098,77.3686762,,,,,,,,,
+569,La Fameux Derma,Shop,OpenStreetMap place listing,28.644494,77.3386605,,,,,,,,,
+570,Lav Kush Properties,Shop,OpenStreetMap place listing,28.6445807,77.3385226,,,,,,,,,
+571,Lovkush Repairing Center,Shop,OpenStreetMap place listing,28.6009904,77.3223748,,,,,,,,,32
+572,Luminous,Shop,OpenStreetMap place listing,28.6181777,77.3796612,,,,,,,,,
+573,Mahajan Bath Plaza,Shop,OpenStreetMap place listing,28.6022057,77.3253572,,,,,,,,,
+574,Mother Dairy,Shop,Brand: Mother Dairy; Operator: Mother Dairy,28.6392179,77.3758233,,,,,,,Mother Dairy,Mother Dairy,
+575,Mother Dairy,Shop,Brand: Mother Dairy; Hours: 06:00-22:00,28.619482,77.3705346,,,,06:00-22:00,,,Mother Dairy,,
+576,Mother Dairy,Shop,Brand: Mother Dairy,28.577487,77.3694864,,,,,,,Mother Dairy,,
+577,Mother Dairy,Shop,Brand: Mother Dairy,28.6185747,77.3161916,,,,,,,Mother Dairy,,
+578,Mother Dairy,Shop,"Brand: Mother Dairy; Hours: 05:30-13:00,16:00-22:00",28.601249,77.3225483,,,,"05:30-13:00,16:00-22:00",,,Mother Dairy,,"Delhi, 110096"
+579,Mother Dairy,Shop,Brand: Mother Dairy,28.5969714,77.3380217,,,,,,,Mother Dairy,,
+580,Mother Dairy,Shop,Brand: Mother Dairy; Hours: PH off,28.6452737,77.3390795,,,,PH off,,,Mother Dairy,,
+581,Mother Dairy,Shop,Brand: Mother Dairy,28.6452813,77.3435512,,,,,,,Mother Dairy,,
+582,Mother Dairy Booth 875,Shop,"Operator: Mother Dairy; Street: Sector 17; Hours: Mo-Sa 07:00-13:00,17:00-23:00",28.6532689,77.3554105,,,,"Mo-Sa 07:00-13:00,17:00-23:00",,,,Mother Dairy,"Sector 17, Ghaziabad, 201012"
+583,Motherr Dairy,Shop,OpenStreetMap place listing,28.6607927,77.3785798,,,,,,,,,
+584,MR.DIY,Shop,Brand: MR.DIY; Hours: PH open,28.6447619,77.3390914,,,,PH open,,https://mrdiy.co.in,MR.DIY,,
+585,Nandi Dairy,Shop,OpenStreetMap place listing,28.6448151,77.3388057,,,,,,,,,
+586,Negi Shop,Shop,OpenStreetMap place listing,28.6508882,77.3533403,,,,,,,,,
+587,Obeetee Pvt Ltd - Carpet & Rug Manufacturer India,Shop,OpenStreetMap place listing,28.6111545,77.3769129,,,,,,https://www.obeetee.in/,,,
+588,Om Atta Chakki,Shop,OpenStreetMap place listing,28.6608434,77.3786748,,,,,,,,,
+589,Omax Dry cleaner and Washer,Shop,OpenStreetMap place listing,28.661915,77.3777578,,,,,,,,,
+590,Perfection,Shop,OpenStreetMap place listing,28.6360148,77.3617846,,,,,,,,,
+591,R Cobbler Shop,Shop,OpenStreetMap place listing,28.6604741,77.3801221,,,,,,,,,
+592,Ramesh Chai,Shop,OpenStreetMap place listing,28.6514691,77.3528093,,,,,,,,,
+593,Ritu Wears,Shop,Operator: Ritu Wears; Hours: 1000-2000,28.6412687,77.378334,,,,1000-2000,,,,Ritu Wears,
+594,Sai Trader,Shop,OpenStreetMap place listing,28.6107189,77.3800219,,,,,,,,,
+595,Sandeep Drycleaners,Shop,OpenStreetMap place listing,28.6496984,77.3523133,,,,,,,,,
+596,Santosh Medical Store,Shop,OpenStreetMap place listing,28.6479987,77.3523136,,,,,,,,,
+597,Sapna Boutique,Shop,OpenStreetMap place listing,28.6605591,77.3785921,,,,,,,,,
+598,Satyarth Medical Store,Shop,OpenStreetMap place listing,28.6462002,77.3485965,,,,,,,,,
+599,Shopping Complex,Shop,OpenStreetMap place listing,28.6012094,77.322427,,,,,,,,,
+600,Shravan Pan Palace,Shop,OpenStreetMap place listing,28.6497669,77.3435527,,,,,,,,,
+601,Shree Balaji Auto Service Centre,Shop,OpenStreetMap place listing,28.6101137,77.3799117,,,,,,,,,
+602,Shree Mahadev Nursery,Shop,OpenStreetMap place listing,28.6349423,77.3296447,,,,,,,,,
+603,Tyagi Service Center,Shop,Hours: Mo-Su 09:00-21:00; PH closed,28.6114855,77.3777817,,,,Mo-Su 09:00-21:00; PH closed,,,,,"72, Noida, 201301"
+604,A-Square Mall,Shopping Mall,"Street: Sarfabad Village, Sarfabad, Sector 73",28.5914028,77.3812547,,,,,+91-9911229955,,,,"H9RJ+HG8, Sarfabad Village, Sarfabad, Sector 73, Noida, 201316"
+605,Angel Mega Mall,Shopping Mall,OpenStreetMap place listing,28.6398849,77.3265582,,,,,,,,,
+606,EROS Market Place,Shopping Mall,OpenStreetMap place listing,28.6468716,77.3752333,,,,,,,,,
+607,Indirapuram Habitat Center,Shopping Mall,OpenStreetMap place listing,28.639864,77.3685388,,,,,,,,,
+608,Modi Mall,Shopping Mall,OpenStreetMap place listing,28.5863825,77.3410962,,,,,,,,,
+609,Modi Mall,Shopping Mall,OpenStreetMap place listing,28.5862984,77.3411613,,,,,,,,,
+610,North India Mall,Shopping Mall,OpenStreetMap place listing,28.6342191,77.3698775,,,,,,,,,"9, Ghaziabad, 201014"
+611,Shopprix Mall,Shopping Mall,OpenStreetMap place listing,28.597126,77.3649193,,,,,,,,,
+612,Shopprix Mall,Shopping Mall,OpenStreetMap place listing,28.642895,77.3408994,,,,,,,,,
+613,Spice Mall,Shopping Mall,OpenStreetMap place listing,28.586322,77.3411709,,,,,,,,,
+614,Vardhaman Sunrize Plaza,Shopping Mall,OpenStreetMap place listing,28.6003067,77.3202275,,,,,,,,,
+615,Chilla Sports Complex,Sports Centre,Area: Vasundhra Enclave,28.5998156,77.3252747,,,,,,https://dda.gov.in/chilla-sports-complex,,,Vasundhra Enclave
+616,Noida Sports Stadium,Sports Centre,Hours: 06:00-22:00,28.5898761,77.3404775,,,,06:00-22:00,,,,,
+617,Decathlon,Sports Store,Brand: Decathlon; Operator: Decathlon,28.6396433,77.3697303,,,,,,,Decathlon,Decathlon,
+618,AGGARWAL STATIONERY STORE AND GIFT CENTRE,Stationery Store,OpenStreetMap place listing,28.6617521,77.3779886,,,,,,,,,
+619,Bhagwati Stationaries,Stationery Store,OpenStreetMap place listing,28.650339,77.3530592,,,,,,,,,
+620,Maithali Stationary,Stationery Store,OpenStreetMap place listing,28.6010974,77.3223192,,,,,,,,,23
+621,A To Z Super Mart,Supermarket,OpenStreetMap place listing,28.6584339,77.3648976,,,,,,,,,
+622,Big Bazaar,Supermarket,OpenStreetMap place listing,28.6446464,77.3350878,,,,,,,,,
+623,Dilli Bazar,Supermarket,OpenStreetMap place listing,28.6615331,77.3793974,,,,,,,,,
+624,Foodczaar,Supermarket,OpenStreetMap place listing,28.6360177,77.360901,,,,,,,,,
+625,Jaipuria Mall,Supermarket,OpenStreetMap place listing,28.6407472,77.3782362,,,,,,,,,
+626,Mahagun Supermarket,Supermarket,OpenStreetMap place listing,28.6346436,77.3621732,,,,,,,,,
+627,More,Supermarket,Brand: More,28.6459453,77.3807788,,,,,,,More,,"Ghaziabad, 201014"
+628,more,Supermarket,OpenStreetMap place listing,28.6636971,77.3755959,,,,,,,,,
+629,Needs,Supermarket,Operator: Needs; Hours: 1000-2200,28.6391996,77.3615693,,,,1000-2200,,,,Needs,
+630,Niho Mall,Supermarket,OpenStreetMap place listing,28.6425151,77.3837131,,,,,,,,,
+631,North India Mall,Supermarket,OpenStreetMap place listing,28.633824,77.3696585,,,,,,,,,
+632,Pure Ayurveda,Supermarket,"Street: Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014",28.6389249,77.3773433,,,,,,https://pureayurveda.in/,,,"G-81,D mall, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014, ghaziabad, 201014"
+633,Sabji Wala,Supermarket,OpenStreetMap place listing,28.6511082,77.3531324,,,,,,,,,
+634,Smart Bazaar,Supermarket,Brand: Big Bazaar,28.6378879,77.360427,,,,,,,Big Bazaar,,
+635,SRS Value Bazaar,Supermarket,OpenStreetMap place listing,28.5795758,77.3661008,,,,,,,,,
+636,Velocity Complex,Supermarket,Street: Village - Gijhor; Hours: 24/7,28.5905342,77.359209,,,,24/7,,,,,"Village - Gijhor, Noida, 201301"
+637,Vishal Mega Mart,Supermarket,Brand: Vishal Mega Mart,28.6467322,77.3638458,,,,,,,Vishal Mega Mart,,
+638,AEZ Carnival Amphitheatre,Theatre,OpenStreetMap place listing,28.6337896,77.3314739,,,,,,,,,
+639,Amphitheatre,Theatre,Operator: Ryan International School,28.6141623,77.3367494,,,,,,,,Ryan International School,
+640,Open Air Theater,Theatre,Operator: JIIT,28.6307697,77.3715779,,,,,,,,JIIT,
+641,Dog Care Centre,Veterinary Clinic,OpenStreetMap place listing,28.6478088,77.3374392,,,,,,,,,
+642,Veterinary Doctor,Veterinary Clinic,OpenStreetMap place listing,28.6419362,77.3745298,,,,,,,,,
+643,Vets N Pets Veterinary Clinic,Veterinary Clinic,Hours: Mo-Su 10:00-20:30,28.5931167,77.3398404,,,,Mo-Su 10:00-20:30,+91 104126643,,,,"100, Noida"
